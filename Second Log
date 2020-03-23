@@ -1,0 +1,1101 @@
+RimWorld 1.1.2579 rev1090
+Verse.Log:Message(String, Boolean)
+RimWorld.VersionControl:LogVersionNumber()
+Verse.Root:CheckGlobalInit()
+Verse.Root:Start()
+Verse.Root_Entry:Start()
+
+Mod DeepRim: targetVersion field is obsolete, use supportedVersions instead.
+Verse.Log:Warning(String, Boolean)
+Verse.ModMetaDataInternal:TryParseSupportedVersions(Boolean)
+Verse.ModMetaData:Init()
+Verse.ModMetaData:.ctor(String, Boolean)
+Verse.ModLister:RebuildModList()
+Verse.ModLister:.cctor()
+Verse.ModsConfig:.cctor()
+Verse.LoadedModManager:InitializeMods()
+Verse.LoadedModManager:LoadAllActiveMods()
+Verse.PlayDataLoader:DoPlayLoad()
+Verse.PlayDataLoader:LoadAllPlayData(Boolean)
+Verse.<>c:<Start>b__6_1()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+Mod DeepRim is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>)
+Verse.Log:Warning(String, Boolean)
+Verse.ModMetaDataInternal:TryParseSupportedVersions(Boolean)
+Verse.ModMetaData:Init()
+Verse.ModMetaData:.ctor(String, Boolean)
+Verse.ModLister:RebuildModList()
+Verse.ModLister:.cctor()
+Verse.ModsConfig:.cctor()
+Verse.LoadedModManager:InitializeMods()
+Verse.LoadedModManager:LoadAllActiveMods()
+Verse.PlayDataLoader:DoPlayLoad()
+Verse.PlayDataLoader:LoadAllPlayData(Boolean)
+Verse.<>c:<Start>b__6_1()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+Mod DeepRim is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>)
+Verse.Log:Warning(String, Boolean)
+Verse.ModMetaDataInternal:TryParsePackageId(Boolean, Boolean)
+Verse.ModMetaData:Init()
+Verse.ModMetaData:.ctor(String, Boolean)
+Verse.ModLister:RebuildModList()
+Verse.ModLister:.cctor()
+Verse.ModsConfig:.cctor()
+Verse.LoadedModManager:InitializeMods()
+Verse.LoadedModManager:LoadAllActiveMods()
+Verse.PlayDataLoader:DoPlayLoad()
+Verse.PlayDataLoader:LoadAllPlayData(Boolean)
+Verse.<>c:<Start>b__6_1()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+Mod Vanilla Furniture Expanded is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>)
+Verse.Log:Warning(String, Boolean)
+Verse.ModMetaDataInternal:TryParsePackageId(Boolean, Boolean)
+Verse.ModMetaData:Init()
+Verse.ModMetaData:.ctor(String, Boolean)
+Verse.ModLister:RebuildModList()
+Verse.ModLister:.cctor()
+Verse.ModsConfig:.cctor()
+Verse.LoadedModManager:InitializeMods()
+Verse.LoadedModManager:LoadAllActiveMods()
+Verse.PlayDataLoader:DoPlayLoad()
+Verse.PlayDataLoader:LoadAllPlayData(Boolean)
+Verse.<>c:<Start>b__6_1()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+Mod Plant saver: targetVersion field is obsolete, use supportedVersions instead.
+Verse.Log:Warning(String, Boolean)
+Verse.ModMetaDataInternal:TryParseSupportedVersions(Boolean)
+Verse.ModMetaData:Init()
+Verse.ModMetaData:.ctor(String, Boolean)
+Verse.ModLister:RebuildModList()
+Verse.ModLister:.cctor()
+Verse.ModsConfig:.cctor()
+Verse.LoadedModManager:InitializeMods()
+Verse.LoadedModManager:LoadAllActiveMods()
+Verse.PlayDataLoader:DoPlayLoad()
+Verse.PlayDataLoader:LoadAllPlayData(Boolean)
+Verse.<>c:<Start>b__6_1()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+Mod Plant saver is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>)
+Verse.Log:Warning(String, Boolean)
+Verse.ModMetaDataInternal:TryParseSupportedVersions(Boolean)
+Verse.ModMetaData:Init()
+Verse.ModMetaData:.ctor(String, Boolean)
+Verse.ModLister:RebuildModList()
+Verse.ModLister:.cctor()
+Verse.ModsConfig:.cctor()
+Verse.LoadedModManager:InitializeMods()
+Verse.LoadedModManager:LoadAllActiveMods()
+Verse.PlayDataLoader:DoPlayLoad()
+Verse.PlayDataLoader:LoadAllPlayData(Boolean)
+Verse.<>c:<Start>b__6_1()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+Mod Plant saver is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>)
+Verse.Log:Warning(String, Boolean)
+Verse.ModMetaDataInternal:TryParsePackageId(Boolean, Boolean)
+Verse.ModMetaData:Init()
+Verse.ModMetaData:.ctor(String, Boolean)
+Verse.ModLister:RebuildModList()
+Verse.ModLister:.cctor()
+Verse.ModsConfig:.cctor()
+Verse.LoadedModManager:InitializeMods()
+Verse.LoadedModManager:LoadAllActiveMods()
+Verse.PlayDataLoader:DoPlayLoad()
+Verse.PlayDataLoader:LoadAllPlayData(Boolean)
+Verse.<>c:<Start>b__6_1()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+Mod Research Tree: targetVersion field is obsolete, use supportedVersions instead.
+Verse.Log:Warning(String, Boolean)
+Verse.ModMetaDataInternal:TryParseSupportedVersions(Boolean)
+Verse.ModMetaData:Init()
+Verse.ModMetaData:.ctor(String, Boolean)
+Verse.ModLister:RebuildModList()
+Verse.ModLister:.cctor()
+Verse.ModsConfig:.cctor()
+Verse.LoadedModManager:InitializeMods()
+Verse.LoadedModManager:LoadAllActiveMods()
+Verse.PlayDataLoader:DoPlayLoad()
+Verse.PlayDataLoader:LoadAllPlayData(Boolean)
+Verse.<>c:<Start>b__6_1()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+Mod Research Tree is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>)
+Verse.Log:Warning(String, Boolean)
+Verse.ModMetaDataInternal:TryParseSupportedVersions(Boolean)
+Verse.ModMetaData:Init()
+Verse.ModMetaData:.ctor(String, Boolean)
+Verse.ModLister:RebuildModList()
+Verse.ModLister:.cctor()
+Verse.ModsConfig:.cctor()
+Verse.LoadedModManager:InitializeMods()
+Verse.LoadedModManager:LoadAllActiveMods()
+Verse.PlayDataLoader:DoPlayLoad()
+Verse.PlayDataLoader:LoadAllPlayData(Boolean)
+Verse.<>c:<Start>b__6_1()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+Mod Research Tree is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>)
+Verse.Log:Warning(String, Boolean)
+Verse.ModMetaDataInternal:TryParsePackageId(Boolean, Boolean)
+Verse.ModMetaData:Init()
+Verse.ModMetaData:.ctor(String, Boolean)
+Verse.ModLister:RebuildModList()
+Verse.ModLister:.cctor()
+Verse.ModsConfig:.cctor()
+Verse.LoadedModManager:InitializeMods()
+Verse.LoadedModManager:LoadAllActiveMods()
+Verse.PlayDataLoader:DoPlayLoad()
+Verse.PlayDataLoader:LoadAllPlayData(Boolean)
+Verse.<>c:<Start>b__6_1()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+Mod Harvest Organs Post Mortem - 4.1 [1.0]: targetVersion field is obsolete, use supportedVersions instead.
+Verse.Log:Warning(String, Boolean)
+Verse.ModMetaDataInternal:TryParseSupportedVersions(Boolean)
+Verse.ModMetaData:Init()
+Verse.ModMetaData:.ctor(String, Boolean)
+Verse.ModLister:RebuildModList()
+Verse.ModLister:.cctor()
+Verse.ModsConfig:.cctor()
+Verse.LoadedModManager:InitializeMods()
+Verse.LoadedModManager:LoadAllActiveMods()
+Verse.PlayDataLoader:DoPlayLoad()
+Verse.PlayDataLoader:LoadAllPlayData(Boolean)
+Verse.<>c:<Start>b__6_1()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+Mod Harvest Organs Post Mortem - 4.1 [1.0] is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>)
+Verse.Log:Warning(String, Boolean)
+Verse.ModMetaDataInternal:TryParseSupportedVersions(Boolean)
+Verse.ModMetaData:Init()
+Verse.ModMetaData:.ctor(String, Boolean)
+Verse.ModLister:RebuildModList()
+Verse.ModLister:.cctor()
+Verse.ModsConfig:.cctor()
+Verse.LoadedModManager:InitializeMods()
+Verse.LoadedModManager:LoadAllActiveMods()
+Verse.PlayDataLoader:DoPlayLoad()
+Verse.PlayDataLoader:LoadAllPlayData(Boolean)
+Verse.<>c:<Start>b__6_1()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+Mod Harvest Organs Post Mortem - 4.1 [1.0] is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>)
+Verse.Log:Warning(String, Boolean)
+Verse.ModMetaDataInternal:TryParsePackageId(Boolean, Boolean)
+Verse.ModMetaData:Init()
+Verse.ModMetaData:.ctor(String, Boolean)
+Verse.ModLister:RebuildModList()
+Verse.ModLister:.cctor()
+Verse.ModsConfig:.cctor()
+Verse.LoadedModManager:InitializeMods()
+Verse.LoadedModManager:LoadAllActiveMods()
+Verse.PlayDataLoader:DoPlayLoad()
+Verse.PlayDataLoader:LoadAllPlayData(Boolean)
+Verse.<>c:<Start>b__6_1()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+[HugsLib] version 7.1.0
+Verse.Log:Message(String, Boolean)
+HugsLib.Utils.ModLogger:Message(String, Object[])
+HugsLib.HugsLibController:InitializeController()
+HugsLib.HugsLibController:EarlyInitialize()
+HugsLib.Core.HugsLibMod:.ctor(ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[])
+System.Reflection.MonoCMethod:DoInvoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MonoCMethod:Invoke(BindingFlags, Binder, Object[], CultureInfo)
+System.RuntimeType:CreateInstanceImpl(BindingFlags, Binder, Object[], CultureInfo, Object[], StackCrawlMark&)
+System.Activator:CreateInstance(Type, BindingFlags, Binder, Object[], CultureInfo, Object[])
+System.Activator:CreateInstance(Type, Object[])
+Verse.LoadedModManager:CreateModClasses()
+Verse.LoadedModManager:LoadAllActiveMods()
+Verse.PlayDataLoader:DoPlayLoad()
+Verse.PlayDataLoader:LoadAllPlayData(Boolean)
+Verse.<>c:<Start>b__6_1()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+[HugsLib] early-initializing AllowTool
+Verse.Log:Message(String, Boolean)
+HugsLib.Utils.ModLogger:Message(String, Object[])
+HugsLib.HugsLibController:EnumerateChildMods(Boolean)
+HugsLib.HugsLibController:EarlyInitializeChildMods()
+HugsLib.HugsLibController:InitializeController()
+HugsLib.HugsLibController:EarlyInitialize()
+HugsLib.Core.HugsLibMod:.ctor(ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[])
+System.Reflection.MonoCMethod:DoInvoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MonoCMethod:Invoke(BindingFlags, Binder, Object[], CultureInfo)
+System.RuntimeType:CreateInstanceImpl(BindingFlags, Binder, Object[], CultureInfo, Object[], StackCrawlMark&)
+System.Activator:CreateInstance(Type, BindingFlags, Binder, Object[], CultureInfo, Object[])
+System.Activator:CreateInstance(Type, Object[])
+Verse.LoadedModManager:CreateModClasses()
+Verse.LoadedModManager:LoadAllActiveMods()
+Verse.PlayDataLoader:DoPlayLoad()
+Verse.PlayDataLoader:LoadAllPlayData(Boolean)
+Verse.<>c:<Start>b__6_1()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+[MadSkills]: settings initialized, multiplier is 0, not tiered, daily XP threshold is 4000, saturated XP multiplier is 0.2, Great Memory trait is altered.
+Verse.Log:Message(String, Boolean)
+RTMadSkills.ModSettings:ExposeData()
+Verse.ScribeExtractor:SaveableFromNode(XmlNode, Object[])
+Verse.Scribe_Deep:Look(ModSettings&, Boolean, String, Object[])
+Verse.Scribe_Deep:Look(ModSettings&, String, Object[])
+Verse.LoadedModManager:ReadModSettings(String, String)
+Verse.Mod:GetSettings()
+RTMadSkills.Mod:.ctor(ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[])
+System.Reflection.MonoCMethod:DoInvoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MonoCMethod:Invoke(BindingFlags, Binder, Object[], CultureInfo)
+System.RuntimeType:CreateInstanceImpl(BindingFlags, Binder, Object[], CultureInfo, Object[], StackCrawlMark&)
+System.Activator:CreateInstance(Type, BindingFlags, Binder, Object[], CultureInfo, Object[])
+System.Activator:CreateInstance(Type, Object[])
+Verse.LoadedModManager:CreateModClasses()
+Verse.LoadedModManager:LoadAllActiveMods()
+Verse.PlayDataLoader:DoPlayLoad()
+Verse.PlayDataLoader:LoadAllPlayData(Boolean)
+Verse.<>c:<Start>b__6_1()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+Fluffy Breakdowns :: Initialized
+Verse.Log:Message(String, Boolean)
+Fluffy_Breakdowns.Controller:.ctor(ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[])
+System.Reflection.MonoCMethod:DoInvoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MonoCMethod:Invoke(BindingFlags, Binder, Object[], CultureInfo)
+System.RuntimeType:CreateInstanceImpl(BindingFlags, Binder, Object[], CultureInfo, Object[], StackCrawlMark&)
+System.Activator:CreateInstance(Type, BindingFlags, Binder, Object[], CultureInfo, Object[])
+System.Activator:CreateInstance(Type, Object[])
+Verse.LoadedModManager:CreateModClasses()
+Verse.LoadedModManager:LoadAllActiveMods()
+Verse.PlayDataLoader:DoPlayLoad()
+Verse.PlayDataLoader:LoadAllPlayData(Boolean)
+Verse.<>c:<Start>b__6_1()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+PickUpAndHaul v0.1.1.0⅓ welcomes you to RimWorld with pointless logspam.
+Verse.Log:Message(String, Boolean)
+PickUpAndHaul.HarmonyPatches:.ctor(ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[])
+System.Reflection.MonoCMethod:DoInvoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MonoCMethod:Invoke(BindingFlags, Binder, Object[], CultureInfo)
+System.RuntimeType:CreateInstanceImpl(BindingFlags, Binder, Object[], CultureInfo, Object[], StackCrawlMark&)
+System.Activator:CreateInstance(Type, BindingFlags, Binder, Object[], CultureInfo, Object[])
+System.Activator:CreateInstance(Type, Object[])
+Verse.LoadedModManager:CreateModClasses()
+Verse.LoadedModManager:LoadAllActiveMods()
+Verse.PlayDataLoader:DoPlayLoad()
+Verse.PlayDataLoader:LoadAllPlayData(Boolean)
+Verse.<>c:<Start>b__6_1()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+DubsMintMenus v1.2.605
+Verse.Log:Message(String, Boolean)
+DubsMintMenus.DubsMintMenusMod:.ctor(ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[])
+System.Reflection.MonoCMethod:DoInvoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MonoCMethod:Invoke(BindingFlags, Binder, Object[], CultureInfo)
+System.RuntimeType:CreateInstanceImpl(BindingFlags, Binder, Object[], CultureInfo, Object[], StackCrawlMark&)
+System.Activator:CreateInstance(Type, BindingFlags, Binder, Object[], CultureInfo, Object[])
+System.Activator:CreateInstance(Type, Object[])
+Verse.LoadedModManager:CreateModClasses()
+Verse.LoadedModManager:LoadAllActiveMods()
+Verse.PlayDataLoader:DoPlayLoad()
+Verse.PlayDataLoader:LoadAllPlayData(Boolean)
+Verse.<>c:<Start>b__6_1()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+RSA Core 0.1.1.0 loaded..
+Verse.Log:Message(String, Boolean)
+RSA.Core.RSACoreMod:.ctor(ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[])
+System.Reflection.MonoCMethod:DoInvoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MonoCMethod:Invoke(BindingFlags, Binder, Object[], CultureInfo)
+System.RuntimeType:CreateInstanceImpl(BindingFlags, Binder, Object[], CultureInfo, Object[], StackCrawlMark&)
+System.Activator:CreateInstance(Type, BindingFlags, Binder, Object[], CultureInfo, Object[])
+System.Activator:CreateInstance(Type, Object[])
+Verse.LoadedModManager:CreateModClasses()
+Verse.LoadedModManager:LoadAllActiveMods()
+Verse.PlayDataLoader:DoPlayLoad()
+Verse.PlayDataLoader:LoadAllPlayData(Boolean)
+Verse.<>c:<Start>b__6_1()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+RSA Main 2.4.1.0 loaded ...
+Verse.Log:Message(String, Boolean)
+RSA.RSAMod:.ctor(ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[])
+System.Reflection.MonoCMethod:DoInvoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MonoCMethod:Invoke(BindingFlags, Binder, Object[], CultureInfo)
+System.RuntimeType:CreateInstanceImpl(BindingFlags, Binder, Object[], CultureInfo, Object[], StackCrawlMark&)
+System.Activator:CreateInstance(Type, BindingFlags, Binder, Object[], CultureInfo, Object[])
+System.Activator:CreateInstance(Type, Object[])
+Verse.LoadedModManager:CreateModClasses()
+Verse.LoadedModManager:LoadAllActiveMods()
+Verse.PlayDataLoader:DoPlayLoad()
+Verse.PlayDataLoader:LoadAllPlayData(Boolean)
+Verse.<>c:<Start>b__6_1()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+LWM Deep Storage: activated compatibility patch for VGP Vegetable Garden
+Verse.Log:Message(String, Boolean)
+LWM.DeepStorage.PatchMessage:ApplyWorker(XmlDocument)
+Verse.PatchOperation:Apply(XmlDocument)
+Verse.PatchOperationSequence:ApplyWorker(XmlDocument)
+Verse.PatchOperation:Apply(XmlDocument)
+Verse.PatchOperationFindMod:ApplyWorker(XmlDocument)
+Verse.PatchOperation:Apply(XmlDocument)
+Verse.LoadedModManager:ApplyPatches(XmlDocument, Dictionary`2)
+Verse.LoadedModManager:LoadAllActiveMods()
+Verse.PlayDataLoader:DoPlayLoad()
+Verse.PlayDataLoader:LoadAllPlayData(Boolean)
+Verse.<>c:<Start>b__6_1()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+[MadSkills]: changed behavior of Great Memory trait.
+Verse.Log:Message(String, Boolean)
+RTMadSkills.ModSettingsDefJockey:ApplyChanges(Boolean)
+RTMadSkills.ModSettingsDefJockey:Postfix()
+RimWorld.DefGenerator:DMD<DMD<GenerateImpliedDefs_PostResolve_Patch1>?-2099423360::GenerateImpliedDefs_PostResolve_Patch1>()
+Verse.PlayDataLoader:DoPlayLoad()
+Verse.PlayDataLoader:LoadAllPlayData(Boolean)
+Verse.<>c:<Start>b__6_1()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+Config error in SoSShuttlecraft: no parts vulnerable to frostbite
+Verse.Log:Error(String, Boolean)
+Verse.DefDatabase`1:ErrorCheckAllDefs()
+System.Reflection.MonoMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoMethod:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MethodBase:Invoke(Object, Object[])
+Verse.GenGeneric:InvokeStaticMethodOnGenericType(Type, Type, String)
+Verse.PlayDataLoader:DoPlayLoad()
+Verse.PlayDataLoader:LoadAllPlayData(Boolean)
+Verse.<>c:<Start>b__6_1()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+Translation data for language English has 2 errors. Generate translation report for more info.
+Verse.Log:Warning(String, Boolean)
+Verse.LoadedLanguage:InjectIntoData_AfterImpliedDefs()
+Verse.<>c:<DoPlayLoad>b__4_1()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:DMD<DMD<Update_Patch1>?-245183360::Update_Patch1>(Root)
+Verse.Root_Entry:Update()
+
+RimFridge Harmony Patches:
+  Prefix:
+    ReachabilityUtility.CanReach - So pawns can get items in Wall-Fridges
+  Postfix:
+    GameComponentUtility.StartedNewGame - Apply power settings at start
+    GameComponentUtility.LoadedGame - Apply power settings on load
+    GenTemperature.TryGetTemperatureForCell - Overrides room temperature within the cells of the RimFridge
+    TradeShip.ColonyThingsWillingToBuy - Add items stored inside a wall-fridge to the trade list if in a room with an orbital beacon
+    FoodUtility.TryFindBestFoodSourceFor - Allow Prisoners to eat food from fridges
+    TradeShip.ColonyThingsWillingToBuy
+Verse.Log:Message(String, Boolean)
+RimFridge.HarmonyPatches:.cctor()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor(IntPtr)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor(RuntimeTypeHandle)
+Verse.StaticConstructorOnStartupUtility:CallAll()
+Verse.<>c:<DoPlayLoad>b__4_2()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:DMD<DMD<Update_Patch1>?-245183360::Update_Patch1>(Root)
+Verse.Root_Entry:Update()
+
+EnhancedOptions.Patcher.Patcher(): Starting Patching.
+Verse.Log:Message(String, Boolean)
+EnhancedDevelopment.EnhancedOptions.Patcher:.cctor()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor(IntPtr)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor(RuntimeTypeHandle)
+Verse.StaticConstructorOnStartupUtility:CallAll()
+Verse.<>c:<DoPlayLoad>b__4_2()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:DMD<DMD<Update_Patch1>?-245183360::Update_Patch1>(Root)
+Verse.Root_Entry:Update()
+
+EnhancedOptions.Patcher.Patcher(): Completed Patching.
+Verse.Log:Message(String, Boolean)
+EnhancedDevelopment.EnhancedOptions.Patcher:.cctor()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor(IntPtr)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor(RuntimeTypeHandle)
+Verse.StaticConstructorOnStartupUtility:CallAll()
+Verse.<>c:<DoPlayLoad>b__4_2()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:DMD<DMD<Update_Patch1>?-245183360::Update_Patch1>(Root)
+Verse.Root_Entry:Update()
+
+No Skill Loss mod loaded.
+Verse.Log:Message(String, Boolean)
+RimworldNoSkillDecay.NoSkillDecay:.cctor()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor(IntPtr)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor(RuntimeTypeHandle)
+Verse.StaticConstructorOnStartupUtility:CallAll()
+Verse.<>c:<DoPlayLoad>b__4_2()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:DMD<DMD<Update_Patch1>?-245183360::Update_Patch1>(Root)
+Verse.Root_Entry:Update()
+
+[RimHUD v1.6.4] Initialized
+Verse.Log:Message(String, Boolean)
+RimHUD.Mod:Log(String)
+RimHUD.Mod:.cctor()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor(IntPtr)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor(RuntimeTypeHandle)
+Verse.StaticConstructorOnStartupUtility:CallAll()
+Verse.<>c:<DoPlayLoad>b__4_2()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:DMD<DMD<Update_Patch1>?-245183360::Update_Patch1>(Root)
+Verse.Root_Entry:Update()
+
+[CMColorCodedMoodBar] CMColorCodedMoodBar initialized
+Verse.Log:Message(String, Boolean)
+MoodBarPatch.Main:LogMessage(String)
+MoodBarPatch.Main:.cctor()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor(IntPtr)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor(RuntimeTypeHandle)
+Verse.StaticConstructorOnStartupUtility:CallAll()
+Verse.<>c:<DoPlayLoad>b__4_2()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:DMD<DMD<Update_Patch1>?-245183360::Update_Patch1>(Root)
+Verse.Root_Entry:Update()
+
+MendingWeaponStoragePatch Harmony Patches:
+  Postfix:
+    WorkGiver_DoBill.TryFindBestBillIngredients - Priority Last
+Verse.Log:Message(String, Boolean)
+MendingWeaponStoragePatch.HarmonyPatches_Mending:.cctor()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor(IntPtr)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor(RuntimeTypeHandle)
+Verse.StaticConstructorOnStartupUtility:CallAll()
+Verse.<>c:<DoPlayLoad>b__4_2()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:DMD<DMD<Update_Patch1>?-245183360::Update_Patch1>(Root)
+Verse.Root_Entry:Update()
+
+WeaponStorage Harmony Patches:
+  Prefix:
+    Pawn_HealthTracker.MakeDowned - not blocking
+    Dialog_FormCaravan.PostOpen
+    CaravanExitMapUtility.ExitMapAndCreateCaravan(IEnumerable<Pawn>, Faction, int)
+    CaravanExitMapUtility.ExitMapAndCreateCaravan(IEnumerable<Pawn>, Faction, int, int)
+    MakeUndowned - Priority First
+    Pawn.Kill - Priority First
+    Pawn_EquipmentTracker.AddEquipment - Priority First
+    Pawn_EquipmentTracker.TryDropEquipment - Priority First
+    Pawn_EquipmentTracker.MakeRoomFor - Priority First
+    ScribeSaver.InitSaving
+    SettlementAbandonUtility.Abandon
+  Postfix:
+    Pawn_TraderTracker.ColonyThingsWillingToBuy
+    TradeShip.ColonyThingsWillingToBuy
+    Window.PreClose
+    ReservationManager.CanReserve
+    CaravanFormingUtility.StopFormingCaravan
+    Pawn_DraftController.Drafted { set; }
+    WealthWatcher.ForceRecount
+    MakeDowned - Priority First
+    Pawn_EquipmentTracker.TryDropEquipment - Priority First
+    Pawn.Kill - Priority First
+    Root.Start - Priority Last
+Verse.Log:Message(String, Boolean)
+WeaponStorage.HarmonyPatches:.cctor()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor(IntPtr)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor(RuntimeTypeHandle)
+Verse.StaticConstructorOnStartupUtility:CallAll()
+Verse.<>c:<DoPlayLoad>b__4_2()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:DMD<DMD<Update_Patch1>?-245183360::Update_Patch1>(Root)
+Verse.Root_Entry:Update()
+
+ChangeDresser Harmony Patches:
+  Prefix:
+    Dialog_FormCaravan.PostOpen
+    CaravanExitMapUtility.ExitMapAndCreateCaravan(IEnumerable<Pawn>, Faction, int)
+    CaravanExitMapUtility.ExitMapAndCreateCaravan(IEnumerable<Pawn>, Faction, int, int)
+    Pawn.Kill - Priority First
+    Pawn_ApparelTracker.Notify_ApparelAdded
+    ScribeSaver.InitSaving
+    SettlementAbandonUtility.Abandon
+    Caravan.AddPawn - Priority First (undrafts any drafted pawns)
+  Postfix:
+    Pawn.GetGizmos
+    Pawn_ApparelTracker.Notify_ApparelAdded
+    Pawn_DraftController.Drafted { set }
+    Pawn_DraftController.GetGizmos
+    JobGiver_OptimizeApparel.TryGiveJob
+    ReservationManager.CanReserve
+    OutfitDatabase.TryDelete
+    CaravanFormingUtility.StopFormingCaravan
+    WealthWatcher.ForceRecount
+    Pawn.Kill - Priority First
+    Pawn_ApparelTracker.Notify_ApparelRemoved
+Verse.Log:Message(String, Boolean)
+ChangeDresser.HarmonyPatches:.cctor()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor(IntPtr)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor(RuntimeTypeHandle)
+Verse.StaticConstructorOnStartupUtility:CallAll()
+Verse.<>c:<DoPlayLoad>b__4_2()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:DMD<DMD<Update_Patch1>?-245183360::Update_Patch1>(Root)
+Verse.Root_Entry:Update()
+
+MendingChangeDresserPatch Harmony Patches:
+  Postfix:
+    WorkGiver_DoBill.TryFindBestBillIngredients - Priority Last
+Verse.Log:Message(String, Boolean)
+MendingChangeDresserPatch.HarmonyPatches:.cctor()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor(IntPtr)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor(RuntimeTypeHandle)
+Verse.StaticConstructorOnStartupUtility:CallAll()
+Verse.<>c:<DoPlayLoad>b__4_2()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:DMD<DMD<Update_Patch1>?-245183360::Update_Patch1>(Root)
+Verse.Root_Entry:Update()
+
+InfiniteStorage Harmony Patches:
+  Prefix:
+    Designator_Build.ProcessInput - will block if looking for things.
+    ScribeSaver.InitSaving
+    SettlementAbandonUtility.Abandon
+  Postfix:
+    Pawn_TraderTracker.DrawMedOperationsTab
+    Pawn_TraderTracker.ThingsInGroup
+    Pawn_TraderTracker.ColonyThingsWillingToBuy
+    TradeShip.ColonyThingsWillingToBuy
+    Window.PreClose
+    WorkGiver_DoBill.TryFindBestBillIngredients
+Verse.Log:Message(String, Boolean)
+InfiniteStorage.HarmonyPatches:.cctor()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor(IntPtr)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor(RuntimeTypeHandle)
+Verse.StaticConstructorOnStartupUtility:CallAll()
+Verse.<>c:<DoPlayLoad>b__4_2()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:DMD<DMD<Update_Patch1>?-245183360::Update_Patch1>(Root)
+Verse.Root_Entry:Update()
+
+AdjustableTradeShips Harmony Patches:
+  Prefix:
+    Game.InitNewGame
+  Postfix:
+    Storyteller.Notify_DefChanged
+Verse.Log:Message(String, Boolean)
+AdjustableTradeShips.Main:.cctor()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor(IntPtr)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor(RuntimeTypeHandle)
+Verse.StaticConstructorOnStartupUtility:CallAll()
+Verse.<>c:<DoPlayLoad>b__4_2()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:DMD<DMD<Update_Patch1>?-245183360::Update_Patch1>(Root)
+Verse.Root_Entry:Update()
+
+[RealRuins][System]: RealRuins started patching at 3/23/2020 12:53:31 AM
+Verse.Log:Message(String, Boolean)
+RealRuins.Debug:Message(String, String, Object[])
+RealRuins.Debug:SysLog(String, Object[])
+RealRuins.RealRuins:.cctor()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor(IntPtr)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor(RuntimeTypeHandle)
+Verse.StaticConstructorOnStartupUtility:CallAll()
+Verse.<>c:<DoPlayLoad>b__4_2()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:DMD<DMD<Update_Patch1>?-245183360::Update_Patch1>(Root)
+Verse.Root_Entry:Update()
+
+[RealRuins][System]: RealRuins finished patching at 3/23/2020 12:53:31 AM (123.0008 msec)
+Verse.Log:Message(String, Boolean)
+RealRuins.Debug:Message(String, String, Object[])
+RealRuins.Debug:SysLog(String, Object[])
+RealRuins.RealRuins:.cctor()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor(IntPtr)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor(RuntimeTypeHandle)
+Verse.StaticConstructorOnStartupUtility:CallAll()
+Verse.<>c:<DoPlayLoad>b__4_2()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:DMD<DMD<Update_Patch1>?-245183360::Update_Patch1>(Root)
+Verse.Root_Entry:Update()
+
+EnhancedDevelopment.Embrasures.Patcher(): Starting.
+Verse.Log:Message(String, Boolean)
+EnhancedDevelopment.Embrasures.Patcher:.cctor()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor(IntPtr)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor(RuntimeTypeHandle)
+Verse.StaticConstructorOnStartupUtility:CallAll()
+Verse.<>c:<DoPlayLoad>b__4_2()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:DMD<DMD<Update_Patch1>?-245183360::Update_Patch1>(Root)
+Verse.Root_Entry:Update()
+
+EnhancedDevelopment.Embrasures.ApplyPatchIfRequired: Skipping Applying Patch: Embrasures
+Verse.Log:Message(String, Boolean)
+EnhancedDevelopment.Embrasures.Patch:ApplyPatchIfRequired(Harmony)
+EnhancedDevelopment.Embrasures.<>c__DisplayClass0_0:<.cctor>b__0(Patch)
+System.Collections.Generic.List`1:ForEach(Action`1)
+EnhancedDevelopment.Embrasures.Patcher:.cctor()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor(IntPtr)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor(RuntimeTypeHandle)
+Verse.StaticConstructorOnStartupUtility:CallAll()
+Verse.<>c:<DoPlayLoad>b__4_2()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:DMD<DMD<Update_Patch1>?-245183360::Update_Patch1>(Root)
+Verse.Root_Entry:Update()
+
+EnhancedDevelopment.Embrasures.Patcher(): Complete.
+Verse.Log:Message(String, Boolean)
+EnhancedDevelopment.Embrasures.Patcher:.cctor()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor(IntPtr)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor(RuntimeTypeHandle)
+Verse.StaticConstructorOnStartupUtility:CallAll()
+Verse.<>c:<DoPlayLoad>b__4_2()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:DMD<DMD<Update_Patch1>?-245183360::Update_Patch1>(Root)
+Verse.Root_Entry:Update()
+
+Type TextureChooser probably needs a StaticConstructorOnStartup attribute, because it has a field LeftArrow of type Texture2D. All assets must be loaded in the main thread.
+Verse.Log:Warning(String, Boolean)
+Verse.StaticConstructorOnStartupUtility:ReportProbablyMissingAttributes()
+Verse.<>c:<DoPlayLoad>b__4_2()
+Verse.LongEventHandler:ExecuteToExecuteWhenFinished()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent()
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:DMD<DMD<Update_Patch1>?-245183360::Update_Patch1>(Root)
+Verse.Root_Entry:Update()
+
+[AllowTool] Applied compatibility patch for "Pick Up And Haul"
+Verse.Log:Message(String, Boolean)
+HugsLib.Utils.ModLogger:Message(String, Object[])
+AllowTool.PickUpAndHaulCompatHandler:Apply()
+Verse.LongEventHandler:UpdateCurrentSynchronousEvent(Boolean&)
+Verse.LongEventHandler:LongEventsUpdate(Boolean&)
+Verse.Root:DMD<DMD<Update_Patch1>?-245183360::Update_Patch1>(Root)
+Verse.Root_Entry:Update()
+
+LWM DeepStorage: Activating Compatibility Patch for RimWorld Search Agency
+Verse.Log:Message(String, Boolean)
+LWM.DeepStorage.Fix_RSA_Incompatibilit_NoStorageBlockersIn:Prepare(Harmony)
+System.Reflection.MonoMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoMethod:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MethodBase:Invoke(Object, Object[])
+HarmonyLib.PatchClassProcessor:RunMethod(Boolean, Boolean, Func`2, Object[])
+HarmonyLib.PatchClassProcessor:Patch()
+HarmonyLib.Harmony:<PatchAll>b__10_0(Type)
+HarmonyLib.CollectionExtensions:Do(IEnumerable`1, Action`1)
+HarmonyLib.Harmony:PatchAll(Assembly)
+HugsLib.ModBase:ApplyHarmonyPatches()
+HugsLib.HugsLibController:EnumerateChildMods(Boolean)
+HugsLib.HugsLibController:LoadReloadInitialize()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+[HugsLib] initializing StackXXL, HeatMap, com.github.alandariva.moreplanning, MURWallLight, LetsTradeSettings, PeteTimesSix.SimpleSidearms, BetterPawnControl, CombatTraining, RealRuins, Linkolas.Stabilize, ShipInteriorMod2, DefensivePositions, LWM_DeepStorage, com.jkluch.HaulToStack
+Verse.Log:Message(String, Boolean)
+HugsLib.Utils.ModLogger:Message(String, Object[])
+HugsLib.HugsLibController:EnumerateChildMods(Boolean)
+HugsLib.HugsLibController:LoadReloadInitialize()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+[StackXXL] Loaded
+Verse.Log:Message(String, Boolean)
+HugsLib.Utils.ModLogger:Message(String, Object[])
+StackXXL.StackXXLMod:DefsLoaded()
+HugsLib.HugsLibController:OnDefsLoaded()
+HugsLib.HugsLibController:LoadReloadInitialize()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+[LetsTradeSettings] Let's Trade loaded successfully!
+Verse.Log:Message(String, Boolean)
+HugsLib.Utils.ModLogger:Message(String, Object[])
+LetsTradeSettings.LetsTradeSettings:DefsLoaded()
+HugsLib.HugsLibController:OnDefsLoaded()
+HugsLib.HugsLibController:LoadReloadInitialize()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+Loading game from file The Outworlders 32 with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - UnlimitedHugs.HugsLib
+  - Indeed.StackXXL
+  - EdB.PrepareCarefully
+  - mlph.OpenedDoorsDontBlockLight
+  - Dorely.BetaTraps
+  - PinoChemicali.SkilledStonecutting
+  - falconne.HeatMap
+  - Oblitus.AnimalsLogic
+  - com.github.alandariva.moreplanning
+  - tammybee.predatorhuntalert
+  - tikubonn.dontblockdoor
+  - FrozenSnowFox.FilthVanishesWithRainAndTime
+  - Uuugggg.ShareTheLoad
+  - sumghaiDubwise.Replimat
+  - avilmask.CommonSense
+  - rimfridge.kv.rw
+  - crlsniper.realisticrooms
+  - ratys.madskills
+  - Telkir.TMods.MoreFloors
+  - fluffy.stuffedfloors
+  - Jaxxa.ED.EnhancedOptions
+  - brrainz.cameraplus
+  - fluffy.areaunlocker
+  - fluffy.worktab
+  - brrainz.justignoremepassing
+  - brrainz.rangefinder
+  - fluffy.fluffybreakdowns
+  - Murmur.WallLight
+  - ratys.rtfuse
+  - avilmask.GrazingLands
+  - MRGames.NoSkillDecay
+  - UnlimitedHugs.AllowTool
+  - fluffy.followme
+  - Jaxe.RimHUD
+  - dismarzero.VGP.VGPVegetableGarden
+  - CrashM.ColorCodedMoodBar.11
+  - smashphil.dropspot
+  - earthyturtle.letstrade
+  - PeteTimesSix.SimpleSidearms
+  - Mehni.PickUpAndHaul
+  - hatti.cleaningarea
+  - fluffy.pharmacist
+  - notfood.MendAndRecycle
+  - Hanabishi.InwallCoolersAndVents
+  - VouLT.BetterPawnControl
+  - Mlie.HolyWasher
+  - weaponstorage.kv.rw
+  - changedresser.kv.rw
+  - infinitestorage.kv.rw
+  - Lat.VeeHair
+  - Vanya.Agent.LolidropHairshop
+  - CP.Chicken.Mitchell.Hairstyles
+  - LingLuo.LovelyHairStyle
+  - NackbladInc.Rimhair
+  - Orion.XevaRimhair
+  - rimsenal.hair
+  - Uuugggg.ReplaceStuff
+  - erdelf.MinifyEverything
+  - Haplo.Miscellaneous.BeesNHoney
+  - joethetech.disablesappers
+  - Haplo.Miscellaneous.Training
+  - Shotgunfrenzy.PriorityTreatment
+  - kriil.combat
+  - nephlite.orbitaltradecolumn
+  - syrchalis.setupcamp
+  - syrchalis.doormats
+  - adjustabletradeships.kv.rw
+  - Uuugggg.ThePriceIsRight
+  - LinaFromSweden.SimplyMoreFloors
+  - BigVeech.MetalsTrader
+  - sjaak31367.ZoologicalOrbitalTraders
+  - Supes.MapWideOrbitalTradeBeacon
+  - Dubwise.DubsMintMenus
+  - erdelf.ShowModDesignators
+  - phomor.DoorsCloseFastAgain
+  - Wemd.FastMoisturePumps
+  - fed1sPlay.PawnTargetFix
+  - AgentBlac.ChemfuelFromHay
+  - ods.hair.mens
+  - ods.hair.womens
+  - Woolstrand.RealRuins
+  - SquirtingElephant.NoHealingEmotes
+  - SquirtingElephant.NoZZZ
+  - Francini.CL11
+  - fluffy.blueprints
+  - JM.betterTraders
+  - Mlie.AnimalHarvestingSpot
+  - Storage.Search.RSA
+  - Owlchemist.UndergroundPowerConduits
+  - Ogliss.Ykara.HarvestEverything
+  - Linkolas.Stabilize
+  - fluffy.colonymanager
+  - kentington.saveourship2
+  - Jaxxa.ED.Embrasures
+  - UnlimitedHugs.DefensivePositions
+  - LWM.DeepStorage
+  - JangoDsoul.SimplyStorage
+  - jkluch.HaulToStack
+Verse.Log:Message(String, Boolean)
+Verse.SavedGameLoaderNow:LoadGameFromSaveFileNow(String)
+Verse.<>c:<Start>b__1_1()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+Orbitabl Trader On/Off Cycle applied.
+Verse.Log:Message(String, Boolean)
+AdjustableTradeShips.StoryTellerUtil:ApplyOrbitalTrade(Single, Single)
+AdjustableTradeShips.WorldComp:Initialize()
+AdjustableTradeShips.WorldComp:ExposeData()
+Verse.PostLoadIniter:DoAllPostLoadInits()
+Verse.ScribeLoader:FinalizeLoading()
+Verse.Game:DMD<DMD<LoadGame_Patch1>?-375211392::LoadGame_Patch1>(Game)
+Verse.SavedGameLoaderNow:LoadGameFromSaveFileNow(String)
+Verse.<>c:<Start>b__1_1()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+Could not reserve Thing_MealSimple832483(current stack count: 58) (layer: null) for Blaire for job TakeInventory (Job_2992440) A=Thing_MealSimple832483 (now doing job TakeInventory (Job_2992440) A=Thing_MealSimple832483(curToil=-1)) for maxPawns 1 and stackCount -1. Existing reserver: Mike doing job Ingest (Job_2992080) A=Thing_MealSimple832483 (toilIndex=4)
+Verse.Log:Error(String, Boolean)
+Verse.AI.ReservationManager:DMD<DMD<LogCouldNotReserveError_Patch1>?1049068416::LogCouldNotReserveError_Patch1>(ReservationManager, Pawn, Job, LocalTargetInfo, Int32, Int32, ReservationLayerDef)
+Verse.AI.ReservationManager:DMD<DMD<Reserve_Patch3>?1561428864::Reserve_Patch3>(ReservationManager, Pawn, Job, LocalTargetInfo, Int32, Int32, ReservationLayerDef, Boolean)
+Verse.AI.ReservationUtility:Reserve(Pawn, LocalTargetInfo, Job, Int32, Int32, ReservationLayerDef, Boolean)
+Verse.AI.JobDriver_TakeInventory:TryMakePreToilReservations(Boolean)
+Verse.AI.Pawn_JobTracker:DMD<DMD<StartJob_Patch2>?1894858240::StartJob_Patch2>(Pawn_JobTracker, Job, JobCondition, ThinkNode, Boolean, Boolean, ThinkTreeDef, Nullable`1, Boolean, Boolean)
+Verse.AI.Pawn_JobTracker:TryFindAndStartJob()
+Verse.AI.Pawn_JobTracker:DMD<DMD<EndCurrentJob_Patch1>?-1019971584::EndCurrentJob_Patch1>(Pawn_JobTracker, JobCondition, Boolean, Boolean)
+Verse.AI.Pawn_JobTracker:JobTrackerTick()
+Verse.Pawn:Tick()
+Verse.TickList:Tick()
+Verse.TickManager:DoSingleTick()
+Verse.TickManager:TickManagerUpdate()
+Verse.Game:UpdatePlay()
+Verse.Root_Play:Update()
+
+TryMakePreToilReservations() returned false for a non-queued job right after StartJob(). This should have been checked before. curJob=TakeInventory (Job_2992440) A=Thing_MealSimple832483
+Verse.Log:Warning(String, Boolean)
+Verse.AI.Pawn_JobTracker:DMD<DMD<StartJob_Patch2>?1894858240::StartJob_Patch2>(Pawn_JobTracker, Job, JobCondition, ThinkNode, Boolean, Boolean, ThinkTreeDef, Nullable`1, Boolean, Boolean)
+Verse.AI.Pawn_JobTracker:TryFindAndStartJob()
+Verse.AI.Pawn_JobTracker:DMD<DMD<EndCurrentJob_Patch1>?-1019971584::EndCurrentJob_Patch1>(Pawn_JobTracker, JobCondition, Boolean, Boolean)
+Verse.AI.Pawn_JobTracker:JobTrackerTick()
+Verse.Pawn:Tick()
+Verse.TickList:Tick()
+Verse.TickManager:DoSingleTick()
+Verse.TickManager:TickManagerUpdate()
+Verse.Game:UpdatePlay()
+Verse.Root_Play:Update()
+
+[HugsLib][warn] Exception during log publishing (gist creation): System.Exception: HTTP/1.1 400 Bad Request
+  at HugsLib.Utils.HugsLibUtility+<>c__DisplayClass22_0.<AwaitUnityWebResponse>b__0 () [0x000a6] in <a5967e71a88c4226ab09a2b55a996b0d>:0 
+Verse.Log:Warning(String, Boolean)
+HugsLib.Utils.ModLogger:Warning(String, Object[])
+HugsLib.Logs.LogPublisher:<BeginUpload>b__30_0(Exception)
+HugsLib.Utils.<>c__DisplayClass22_0:<AwaitUnityWebResponse>b__0()
+HugsLib.Utils.DoLaterScheduler:InvokeCallbacks(Queue`1)
+HugsLib.Utils.DoLaterScheduler:OnUpdate()
+HugsLib.HugsLibController:OnUpdate()
+HugsLib.Patches.Root_Patch:UpdateHook()
+Verse.Root:DMD<DMD<Update_Patch1>?-245183360::Update_Patch1>(Root)
+Verse.Root_Play:Update()
