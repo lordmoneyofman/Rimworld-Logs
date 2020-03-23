@@ -1,0 +1,892 @@
+Log uploaded on Monday, March 23, 2020, 12:35:05 AM
+Loaded mods:
+Harmony(brrainz.harmony): 0Harmony(2.0.0.8), HarmonyMod(1.0.0.3)
+Core(Ludeon.RimWorld): (no assemblies)
+Royalty(Ludeon.RimWorld.Royalty): (no assemblies)
+HugsLib(UnlimitedHugs.HugsLib)[ov:7.1.0]: HugsLib(av:1.0.0.0,fv:6.1.3), 0Harmony(2.0.0.8)
+Stack XXL(Indeed.StackXXL)[ov:1.0.0]: $HugsLibChecker(0.5.0.0), StackXXL(1.0.0.0)
+EdB Prepare Carefully(EdB.PrepareCarefully): 0Harmony(2.0.0.8), EdBPrepareCarefully(1.1.1.0)
+Opened Doors Don't Block Light(mlph.OpenedDoorsDontBlockLight): 0Harmony(2.0.0.8), OpenedDoorsDontBlockLight(1.0.0.0)
+BetaTraps(Dorely.BetaTraps): BetaTraps(2.4.0.0), 0MultiplayerAPI(0.1.0.0)
+Skilled Stonecutting(PinoChemicali.SkilledStonecutting): (no assemblies)
+Heat Map(falconne.HeatMap): HeatMap(1.1.11.0), $HugsLibChecker(0.5.0.0)
+Animals Logic(Oblitus.AnimalsLogic): AnimalsLogic(1.0.7366.5978)
+More Planning(com.github.alandariva.moreplanning): $HugsLibChecker(0.5.0.0), MorePlanning(6.0.0.0)
+Predator Hunt Alert(tammybee.predatorhuntalert): 0Harmony(2.0.0.8), PredatorHuntAlert(1.0.0.0)
+DontBlockDoorMod[1.0][1.1](tikubonn.dontblockdoor): DontBlockDoor(0.0.0.0)
+[FSF] Filth Vanishes With Rain And Time(FrozenSnowFox.FilthVanishesWithRainAndTime): (no assemblies)
+Share The Load(Uuugggg.ShareTheLoad): 0Harmony(2.0.0.8), Share_The_Load(1.0.0.0)
+Replimat(sumghaiDubwise.Replimat): 0Harmony(2.0.0.8), Replimat(1.0.0.0)
+Common Sense(avilmask.CommonSense): 0Harmony(2.0.0.8), CommonSense(1.0.7365.28028)
+[KV] RimFridge - 1.1(rimfridge.kv.rw): RimFridge(1.0.0.0)
+Realistic Rooms(crlsniper.realisticrooms): (no assemblies)
+Mad Skills(ratys.madskills): 0Harmony(2.0.0.8), MadSkills(0.0.0.0)
+[T] MoreFloors(Telkir.TMods.MoreFloors): (no assemblies)
+Stuffed Floors(fluffy.stuffedfloors): StuffedFloors(2.0.0.0)
+ED-EnhancedOptions(Jaxxa.ED.EnhancedOptions): ED-EnhancedOptions(1.0.0.0)
+Camera+(brrainz.cameraplus): CameraPlus(2.0.1.8), 0Harmony(2.0.0.8)
+Area Unlocker(fluffy.areaunlocker): 0ColourPicker(2.0.0.43090), AreaUnlocker(3.0.0.0)
+Work Tab(fluffy.worktab): FluffyUI(1.0.0.37496), WorkTab(3.0.0.0)
+Just Ignore Me Passing(brrainz.justignoremepassing): JustIgnoreMePassing(2.0.0.4), 0Harmony(2.0.0.8)
+Range Finder(brrainz.rangefinder): RangeFinder(2.0.0.3), 0Harmony(2.0.0.8)
+Fluffy Breakdowns(fluffy.fluffybreakdowns): Fluffy_Breakdowns(4.0.0.0)
+Wall Light(Murmur.WallLight): WallLight(1.0.0.0)
+RT Fuse(ratys.rtfuse): 0Harmony(2.0.0.8), RT_Fuse(0.0.0.0)
+Grazing Lands(avilmask.GrazingLands): 0Harmony(2.0.0.8), GrazingLands(1.0.0.0)
+Removes Skill Decay(MRGames.NoSkillDecay): 0Harmony(2.0.0.8), RimworldNoSkillDecay(1.0.0.0)
+Allow Tool(UnlimitedHugs.AllowTool): AllowTool(av:3.6.0.0,fv:3.7.1)
+Follow Me(fluffy.followme): FollowMe!(4.0.0.0)
+RimHUD(Jaxe.RimHUD): 0Harmony(2.0.0.8), RimHUD(1.6.4.0)
+VGP Vegetable Garden(dismarzero.VGP.VGPVegetableGarden): Spout(1.0.0.0)
+CM Color Coded Mood Bar [1.1](CrashM.ColorCodedMoodBar.11): 0Harmony(2.0.0.8), 1SettingsHelper(0.19.1.36477), ClassLibrary(0.0.0.0)
+Trade Ships Drop Spot(smashphil.dropspot): DropSpot(1.0.0.0), 0Harmony(2.0.0.8)
+Let's Trade!(earthyturtle.letstrade): 0Harmony(2.0.0.8), LetsTradeSettings(1.0.0.0)
+Simple sidearms(PeteTimesSix.SimpleSidearms): SimpleSidearms(1.4.5.0)
+Pick Up And Haul(Mehni.PickUpAndHaul): 0Harmony(2.0.0.8), IHoldMultipleThings(0.1.0.0), PickUpAndHaul(0.1.0.5)
+CleaningArea(hatti.cleaningarea): CleaningArea(1.0.3.0), 0Harmony(2.0.0.8)
+Pharmacist(fluffy.pharmacist): Pharmacist(2.0.0.0)
+MendAndRecycle(notfood.MendAndRecycle): MendAndRecycle(1.0.7370.2198)
+In-wall coolers and vents [1.1](Hanabishi.InwallCoolersAndVents): InwallCoolersAndVents(1.1.7359.34146)
+Better Pawn Control(VouLT.BetterPawnControl)[ov:2.0.3]: $HugsLibChecker(0.5.0.0), BetterPawnControl(1.9.2.0)
+HolyWasher (Continued)(Mlie.HolyWasher): HolyWasher(1.0.0.0)
+[KV] Weapon Storage - 1.1(weaponstorage.kv.rw): 0Harmony(2.0.0.8), MendingWeaponStoragePatch(1.0.0.0), WeaponStorage(1.0.0.0)
+[KV] Change Dresser - 1.1(changedresser.kv.rw): 0Harmony(2.0.0.8), ChangeDresser(1.0.0.0), MendingChangeDresserPatch(1.0.0.0)
+[KV] Infinite Storage - 1.1(infinitestorage.kv.rw): InfiniteStorage(1.0.0.0), 0Harmony(2.0.0.8)
+Vee Hairs(Lat.VeeHair): (no assemblies)
+Lolidrop's hairshop(Vanya.Agent.LolidropHairshop): (no assemblies)
+[CP] Chicken Mitchell - Hairstyles(CP.Chicken.Mitchell.Hairstyles): (no assemblies)
+[SS]Lovely Hair Style(LingLuo.LovelyHairStyle): (no assemblies)
+Nackblad Inc Rimhair(NackbladInc.Rimhair): (no assemblies)
+Xeva's Rimhair(Orion.XevaRimhair): (no assemblies)
+Rimsenal - Rimhair(rimsenal.hair): (no assemblies)
+Replace Stuff(Uuugggg.ReplaceStuff): 0Harmony(2.0.0.8), Replace_Stuff(1.0.0.0)
+MinifyEverything(erdelf.MinifyEverything): 0Harmony(2.0.0.8), MinifyEverything(1.0.7353.38225)
+Misc. Bees'n'Honey(Haplo.Miscellaneous.BeesNHoney): BeeAndHoney(1.0.0.0)
+Disable Sappers(joethetech.disablesappers): (no assemblies)
+Misc. Training(Haplo.Miscellaneous.Training): TrainingFacility(1.0.0.0)
+[SF] Priority treatment 1.1(Shotgunfrenzy.PriorityTreatment): (no assemblies)
+Combat Training(kriil.combat): KriilMod_CD(1.0.0.0)
+Utility Columns(nephlite.orbitaltradecolumn): RimWorldColumns(1.0.0.0)
+[SYR] Set Up Camp(syrchalis.setupcamp): SetUpCamp(1.0.0.0)
+[SYR] Doormats(syrchalis.doormats): SyrDoorMats(1.0.0.0)
+[KV] Adjustable Trade Ships - 1.1(adjustabletradeships.kv.rw): AdjustableTradeShips(1.0.0.0), 0Harmony(2.0.0.8)
+The Price Is Right(Uuugggg.ThePriceIsRight): 0Harmony(2.0.0.8), The_Price_Is_Right(1.0.0.0)
+SimplyMoreFloors(LinaFromSweden.SimplyMoreFloors): (no assemblies)
+Metals Trader(BigVeech.MetalsTrader): (no assemblies)
+Zoological Orbital Traders(sjaak31367.ZoologicalOrbitalTraders): (no assemblies)
+Map Wide Orbital Trade Beacon(Supes.MapWideOrbitalTradeBeacon): MapWideTradeBeacon(1.0.0.1)
+Dubs Mint Menus(Dubwise.DubsMintMenus): 0Harmony(2.0.0.8), DubsMintMenus(1.2.7366.38285)
+ShowModDesignators(erdelf.ShowModDesignators): ShowModDesignators(1.0.0.0)
+Doors Close Fast Again(phomor.DoorsCloseFastAgain): 0Harmony(2.0.0.8), DoorsCloseFastAgain(1.0.7365.25937)
+[WD] Fast Moisture Pumps(Wemd.FastMoisturePumps): (no assemblies)
+PawnTargetFix(fed1sPlay.PawnTargetFix): PawnTargetFix(1.0.0.0)
+[1.1] Chemfuel From Hay(AgentBlac.ChemfuelFromHay): (no assemblies)
+[Ods] Mens Hair (ods.hair.mens): (no assemblies)
+[Ods] Womens Hair (ods.hair.womens): (no assemblies)
+Real Ruins(Woolstrand.RealRuins): RealRuins(2.1.0.42836), 0Harmony(2.0.0.8)
+No Healing Emotes(SquirtingElephant.NoHealingEmotes): (no assemblies)
+No ZzZ(SquirtingElephant.NoZZZ): (no assemblies)
+Ceiling Light(Francini.CL11): (no assemblies)
+Blueprints(fluffy.blueprints): Blueprints(2.0.0.0)
+Better Traders(JM.betterTraders): (no assemblies)
+AnimalHarvestingSpot (Continued)(Mlie.AnimalHarvestingSpot): AnimalHarvestingSpot(1.0.0.0)
+Rimworld Search Agency(Storage.Search.RSA): RSA.Core(0.1.1.0), RSA(2.4.1.0), 0Harmony(2.0.0.8)
+Underground Power Conduits(Owlchemist.UndergroundPowerConduits): (no assemblies)
+Harvest Everything!(Ogliss.Ykara.HarvestEverything): 0Harmony(2.0.0.8), Harvest Everything(1.0.0.0)
+Stabilize(Linkolas.Stabilize): Stabilize(1.17.0.0)
+Colony Manager(fluffy.colonymanager): Fluffy_ColonyManager(4.0.0.0)
+Save Our Ship 2(kentington.saveourship2): ShipsHaveInsides(0.0.0.0), UnityEngine.IMGUIModule(0.0.0.0)
+ED-Embrasures(Jaxxa.ED.Embrasures): 0Harmony(2.0.0.8), ED-Embrasures(1.0.0.0)
+Defensive Positions(UnlimitedHugs.DefensivePositions): 0MultiplayerAPI(0.1.0.0), DefensivePositions(av:1.7.0.0,fv:1.8.1)
+LWM's Deep Storage(LWM.DeepStorage): IHoldMultipleThings(av:0.1.0.0,fv:1.0.0.0), LWM.DeepStorage(1.0.0.33852)
+[JDS] Simply Storage(JangoDsoul.SimplyStorage): (no assemblies)
+
+Active Harmony patches:
+<>c.<JumpToCarryToNextContainerIfPossible>b__9_2: TRANS: Replace_Stuff.OverMineable.DeliverUnderRock.Transpiler
+<>c__DisplayClass1_0.<StartCarryThing>b__0: TRANS: LWM.DeepStorage.Patch_StartCarryThing_Delegate.Transpiler
+<>c__DisplayClass3_0.<TryGiveJob>b__0: TRANS: AnimalsLogic.YouSleepHere+JobGiver_RescueNearby_TryGiveJob_Patch.Transpiler
+<>c__DisplayClass9_0.<FindPatientBedFor>b__0: TRANS: AnimalsLogic.YouSleepHere+RestUtility_FindPatientBedFor_Patch.Transpiler
+<>c__DisplayClass9_0.<JumpToCarryToNextContainerIfPossible>b__0: TRANS: Replace_Stuff.OverMineable.DeliverUnderRock.Transpiler
+<>c__DisplayClass9_1.<JumpToCarryToNextContainerIfPossible>b__4: TRANS: Replace_Stuff.OverMineable.DeliverUnderRock.Transpiler
+<>c__DisplayClass9_2.<JumpToCarryToNextContainerIfPossible>b__1: TRANS: Replace_Stuff.OverMineable.DeliverUnderRock.Transpiler
+<>c__DisplayClass9_2.<JumpToCarryToNextContainerIfPossible>b__3: TRANS: Replace_Stuff.OverMineable.DeliverUnderRock.Transpiler
+<MakeRecipeProducts>d__0.MoveNext: TRANS: CommonSense.RandomIngredients+GenRecipe_MakeRecipeProducts_CommonSensePatch.CleanIngList
+Alert.DrawAt: PRE: PredatorHuntAlert.Patch_Alert_DrawAt.Prefix post: PredatorHuntAlert.Patch_Alert_DrawAt.Postfix
+Alert_HunterLacksRangedWeapon.get_HuntersWithoutRangedWeapon: post: SimpleSidearms.intercepts.Alert_HunterLacksRangedWeapon_HuntersWithoutRangedWeapon_Postfix.HuntersWithoutRangedWeapon
+AreaManager.CanMakeNewAllowed: PRE: AreaUnlocker.AreaManager_CanMakeNewAllowed.Prefix
+AreaManager.ExposeData: PRE: CleaningArea.AreaManager_AddStartingAreas_Patch.Prefix
+Area_Home.Set: post: MapWideTradeBeacon.Patcher.AreaTarget
+AttackTargetFinder.GetShootingTargetScore: PRE: PawnTargetFix.AttackTargetFinder_GetShootingTargetScore.GetShootingTargetScoreFix
+AutoUndrafter.AutoUndraftTick: post: SimpleSidearms.intercepts.AutoUndrafter_AutoUndraftTick_Postfix.AutoUndraftTick
+BeautyUtility.CellBeauty: PRE: LWM.DeepStorage.PatchBeautyUtilityCellBeauty.Prefix
+BillStack.DoListing: PRE: DubsMintMenus.Patch_BillStack_DoListing.Prefix
+Blueprint.DeSpawn: PRE: Replace_Stuff.PlaceBridges.CancelBlueprint.Prefix, Replace_Stuff.DestroyedRestore.BlueprintRemoval.Prefix
+Blueprint.TryReplaceWithSolidThing: TRANS: Replace_Stuff.OverMineable.BlueprintToFrameUnderRock.Transpiler
+Blueprint_Build.get_WorkTotal: post: Replace_Stuff.NewThing.NewThingDeconstructWork_Blueprint.Postfix
+Blueprint_Install.TryReplaceWithSolidThing: post: MinifyEverything.MinifyEverything.AfterInstall
+Building.DeSpawn: PRE: [800]LWM.DeepStorage.Patch_Building_DeSpawn_For_Building_Storage.Prefix
+Building_Bed.GetGizmos: post: AnimalsLogic.YouSleepHere+Building_Bed_GetGizmos_Patch.Postfix
+Building_Bed.GetInspectString: TRANS: AnimalsLogic.YouSleepHere+Building_Bed_GetInspectString_Patch.Transpiler
+Building_Bed.set_Medical: TRANS: AnimalsLogic.YouSleepHere+Building_Bed_set_Medical_Patch.Transpiler
+Building_Casket.Tick: PRE: SaveOurShip2.EggsDontHatch.Nope
+Building_Cooler.TickRare: TRANS: Replace_Stuff.CoolersOverWalls.WideVentLocationTemp.Transpiler
+Building_CryptosleepCasket.EjectContents: post: SaveOurShip2.UpdateCasketGraphicsB.UpdateIt
+Building_CryptosleepCasket.FindCryptosleepCasketFor: PRE: SaveOurShip2.AllowCrittersleepCaskets.BlockExecution post: SaveOurShip2.AllowCrittersleepCaskets.CrittersCanSleepToo
+Building_CryptosleepCasket.GetFloatMenuOptions: PRE: SaveOurShip2.CantEnterCryptonest.Nope post: SaveOurShip2.CantEnterCryptonest.AlsoNope
+Building_CryptosleepCasket.TryAcceptThing: post: SaveOurShip2.UpdateCasketGraphicsA.UpdateIt
+Building_Door.DoorOpen: post: OpenedDoorsDontBlockLight.DoorOpen_Patch.Postfix
+Building_Door.DoorTryClose: post: OpenedDoorsDontBlockLight.DoorTryClose_Patch.Postfix
+Building_Door.SpawnSetup: post: DontBlockDoorMod.PatchForBuilding_Door.Postfix
+Building_Door.Tick: post: DoorsCloseFastAgain.HarmonyPatches.Postfix
+Building_NutrientPasteDispenser.TryDispenseFood: TRANS: CommonSense.RandomIngredients+GenRecipe_TryDispenseFood_CommonSensePatch.CleanIngList
+Building_Storage.Notify_ReceivedThing: post: LWM.DeepStorage.PatchDisplay_Notify_ReceivedThing.Postfix
+Building_Storage.SpawnSetup: post: LWM.DeepStorage.PatchDisplay_SpawnSetup.Postfix
+Building_Trap.CheckSpring: PRE: EnhancedDevelopment.EnhancedOptions.Detours.PatchBuildingTrap.CheckSpringPrefix
+Building_TurretGun.TryStartShootSomething: PRE: Replace_Stuff.Replace.DisableTurret.Prefix
+Building_WorkTable.UsableForBillsAfterFueling: post: Replace_Stuff.Replace.DisableWorkbench.Postfix
+CameraDriver.ApplyPositionToGameObject: TRANS: CameraPlus.CameraDriver_ApplyPositionToGameObject_Patch.Transpiler
+CameraDriver.CalculateCurInputDollyVect: post: CameraPlus.CameraDriver_CalculateCurInputDollyVect_Patch.Postfix
+CameraDriver.Update: TRANS: CameraPlus.CameraDriver_Update_Patch.Transpiler
+CameraDriver.get_CurrentViewRect: TRANS: CameraPlus.CameraDriver_CurrentViewRect_Patch.Transpiler
+CameraDriver.get_CurrentZoom: PRE: CameraPlus.CameraDriver_CurrentZoom_Patch.Prefix
+CameraJumper.TryJumpAndSelect: PRE: PredatorHuntAlert.Patch_CameraJumper_TryJumpAndSelect.Prefix
+Caravan.AddPawn: PRE: [800]ChangeDresser.Patch_Caravan_AddPawn.Prefix
+Caravan.GetGizmos: post: Syrchalis_SetUpCamp.GetGizmosPatch.GetGizmosPostfix, SaveOurShip2.OtherGizmoFix.AddTheStuffToTheYieldReturnedEnumeratorThingy
+CaravanExitMapUtility.ExitMapAndCreateCaravan: PRE: [800]WeaponStorage.Patch_CaravanExitMapUtility_ExitMapAndCreateCaravan.Prefix, [800]ChangeDresser.Patch_CaravanExitMapUtility_ExitMapAndCreateCaravan.Prefix, [800]InfiniteStorage.Patch_CaravanExitMapUtility_ExitMapAndCreateCaravan.Prefix
+CaravanFormingUtility.StopFormingCaravan: post: [800]WeaponStorage.Patch_CaravanFormingUtility_StopFormingCaravan.Postfix, [800]ChangeDresser.Patch_CaravanFormingUtility_StopFormingCaravan.Postfix, [800]InfiniteStorage.Patch_CaravanFormingUtility_StopFormingCaravan.Postfix
+CaravanUIUtility.AddPawnsSections: PRE: SaveOurShip2.UIFix.replaceit
+ColonistBarColonistDrawer.DrawColonist: PRE: MoodBarPatch.MoodPatch.Prefix
+Command.GizmoOnGUI: post: AllowTool.Patches.Command_GizmoOnGUI_Patch.InterceptInteraction TRANS: AllowTool.Patches.Command_GizmoOnGUI_Patch.DrawRightClickIcon
+CompAssignableToPawn.get_AssigningCandidates: post: AnimalsLogic.YouSleepHere+CompAssignableToPawn_get_AssigningCandidates_Patch.Postfix
+CompAssignableToPawn_Bed.AssignedAnything: PRE: AnimalsLogic.YouSleepHere+CompAssignableToPawn_Bed_AssignedAnything_Patch.Prefix
+CompAssignableToPawn_Bed.TryAssignPawn: PRE: AnimalsLogic.YouSleepHere+CompAssignableToPawn_Bed_TryAssignPawn_Patch.Prefix
+CompBreakdownable.CheckForBreakdown: PRE: Fluffy_Breakdowns.HarmonyPatch_CheckForBreakdown.Prefix, EnhancedDevelopment.EnhancedOptions.Detours.PatchCompBreakdownable.CheckForBreakdownPrefix
+CompBreakdownable.CompInspectStringExtra: PRE: Fluffy_Breakdowns.HarmonyPatch_CompInspectStringExtra.Prefix
+CompPower.ConnectToTransmitter: post: MapWideTradeBeacon.Patcher.Connect
+CompShipPart.CompGetGizmosExtra: PRE: SaveOurShip2.NoGizmoInSpace.CheckBiome post: SaveOurShip2.NoGizmoInSpace.ReturnEmpty
+CompSpawnerPawn.TrySpawnPawn: post: SaveOurShip2.SpaceCreaturesAreHungry.HungerLevel
+CompTemperatureRuinable.DoTicks: PRE: AnimalsLogic.RuinedEggs+CompTemperatureRuinable_DoTicks_Patch.Prefix post: AnimalsLogic.RuinedEggs+CompTemperatureRuinable_DoTicks_Patch.Postfix
+CompUsable.FloatMenuOptionLabel: post: LWM.DeepStorage.MakeArtifactsActivateLabelNameArtifact.Postfix
+CompressibilityDeciderUtility.IsSaveCompressible: post: LWM.DeepStorage.Patch_IsSaveCompressible.Postfix
+DebugWindowsOpener.DevToolStarterOnGUI: TRANS: HugsLib.Patches.DevToolStarterOnGUI_Patch.ExtendButtonsWindow
+DebugWindowsOpener.DrawButtons: TRANS: HugsLib.Patches.DebugWindowsOpener_Patch.DrawAdditionalButtons
+DefGenerator.GenerateImpliedDefs_PostResolve: post: RTMadSkills.ModSettingsDefJockey.Postfix
+DefGenerator.GenerateImpliedDefs_PreResolve: PRE: StuffedFloors.HarmonyPatch_GenerateImpliedDefs_PreResolve.Prefix post: WorkTab.DefGenerator_GenerateImpliedDefs_PreResolve.Postfix
+DefOfHelper.EnsureInitializedInCtor: PRE: Share_The_Load.Mod.EnsureInitializedInCtorPrefix, The_Price_Is_Right.Mod.EnsureInitializedInCtorPrefix
+DefOfHelper.RebindAllDefOfs: post: AllowTool.Patches.DefOfHelper_RebindAll_Patch.HookBeforeImpliedDefsGeneration
+Designation.DesignationDraw: PRE: MorePlanning.Patches.DesignationPlanningDraw.Prefix
+Designation.ExposeData: PRE: MorePlanning.Patches.DesignationPlanningExposeData.Prefix
+DesignationCategoryDef.ResolveDesignators: post: AllowTool.Patches.DesignationCategoryDef_ResolveDesignators_Patch.InjectAllowToolDesignators
+Designator_Build.CanDesignateCell: PRE: Replace_Stuff.DesignatorContext.Prefix post: Replace_Stuff.DesignatorContext.Postfix
+Designator_Build.DrawMouseAttachments: TRANS: Replace_Stuff.PlaceBridges.DesignatorBuildCostCountsBridges.Transpiler
+Designator_Build.ProcessInput: PRE: InfiniteStorage.Patch_Designator_Build_ProcessInput.Prefix
+Designator_Build.get_Visible: PRE: Replace_Stuff.HideCoolerBuild.Prefix post: SaveOurShip2.UnlockBuildings.Unlock
+Designator_Dropdown..ctor: post: Replace_Stuff.CoolersOverWalls.DropdownInOrder.Postfix
+Designator_Install.CanDesignateCell: PRE: Replace_Stuff.BlueprintReplace.DesignatorInstall.Prefix post: Replace_Stuff.BlueprintReplace.DesignatorInstall.Postfix TRANS: Replace_Stuff.BlueprintReplace.DesignatorInstall.Transpiler
+Dialog_BillConfig.DoWindowContents: PRE: RSA.Dialog_BillConfig_DoWindowContents.Before_DoWindowContents
+Dialog_FormCaravan.PostOpen: PRE: WeaponStorage.Patch_Dialog_FormCaravan_PostOpen.Prefix, ChangeDresser.Patch_Dialog_FormCaravan_PostOpen.Prefix, InfiniteStorage.Patch_Dialog_FormCaravan_PostOpen.Prefix
+Dialog_FormCaravan.TryReformCaravan: PRE: RealRuins.RealRuins+DialogFormCaravan_Patch.Prefix, RealRuins.RealRuins+DialogFormCaravan_Patch.Prefix
+Dialog_LoadTransporters.AddPawnsToTransferables: PRE: SaveOurShip2.TransportPrisoners_Patch.DownedPawns_AddToTransferables
+Dialog_ManageAreas.DoWindowContents: PRE: AreaUnlocker.HarmonyPatch_Dialog_ManageAreas.Prefix
+Dialog_ManageOutfits.DoWindowContents: PRE: RSA.DialogManageOutfits_DoWindowContents.Before_DoWindowContents
+Dialog_Options.DoWindowContents: TRANS: HugsLib.Patches.Dialog_Options_Patch.ReplaceModOptionsButton
+Dialog_Trade.Close: post: [800]InfiniteStorage.Patch_Window_PreClose.Postfix, WeaponStorage.Patch_Window_PreClose.Postfix, ChangeDresser.Patch_Window_PreClose.Postfix
+DropCellFinder.TradeDropSpot: PRE: DropSpot.DropSpotHarmony.CustomDropSpotTradeShips
+DropPodIncoming.Impact: PRE: SaveOurShip2.IncomingPodFix.PatchThat
+DropPodLeaving.LeaveMap: PRE: SaveOurShip2.LeavingPodFix.PatchThat
+DropPodUtility.MakeDropPodAt: PRE: SaveOurShip2.TravelingPodFix.PatchThat
+EditWindow_Log.DoMessagesListing: PRE: HugsLib.Patches.EditWindow_Log_Patch.ExtraLogWindowButtons
+ExitMapGrid.get_MapUsesExitGrid: post: SaveOurShip2.InSpaceNoOneCanHearYouRunAway.NoEscape
+Faction.RelationWith: PRE: SaveOurShip2.FactionRelationsAcrossWorlds.RunOriginalMethod post: SaveOurShip2.FactionRelationsAcrossWorlds.ReturnDummy
+FactionDialogMaker.AmountSendableSilver: PRE: InfiniteStorage.HarmonyPatches+Patch_FactionDialogMaker_AmountSendableSilver.Prefix
+FactionGenerator.GenerateFactionsIntoWorld: PRE: SaveOurShip2.DontRegenerateHiddenFactions.PossiblyReplace post: SaveOurShip2.DontRegenerateHiddenFactions.Replace
+FactionManager.FirstFactionOfDef: post: SaveOurShip2.OnlyThisPlanetsFirstFactions.FilterTheFactions
+FactionManager.RecacheFactions: PRE: SaveOurShip2.NoRecache.CheckFlag
+FactionManager.get_AllFactions: post: SaveOurShip2.OnlyThisPlanetsFactions.FilterTheFactions
+FactionManager.get_AllFactionsInViewOrder: post: SaveOurShip2.OnlyThisPlanetsFactionsInViewOrder.FilterTheFactions
+FactionManager.get_AllFactionsListForReading: post: SaveOurShip2.OnlyThisPlanetsFactionsForReading.FilterTheFactions
+FactionManager.get_AllFactionsVisible: post: SaveOurShip2.OnlyThisPlanetsVisibleFactions.FilterTheFactions
+FactionManager.get_AllFactionsVisibleInViewOrder: post: SaveOurShip2.OnlyThisPlanetsFactionsVisibleInViewOrder.FilterTheFactions
+Fire.DoComplexCalcs: post: SaveOurShip2.CannotBurnInSpace.extinguish
+FloatMenuMakerMap.AddHumanlikeOrders: post: SimpleSidearms.intercepts.FloatMenuMakerMap_AddHumanLikeOrders_Postfix.AddHumanlikeOrders, Stabilize.Patches+FloatMenuMakerCarryAdder.AddHumanlikeOrdersPostfix, SaveOurShip2.EggFix.FillThatNest, RT_Shelves.Patch_AddHumanlikeOrders.Postfix TRANS: PickUpAndHaul.HarmonyPatches.FloatMenuMakerMad_AddHumanlikeOrders_Transpiler
+FloatMenuMakerMap.CanTakeOrder: post: SaveOurShip2.OrderFix.CommandTheDamnShuttle
+FogGrid.UnfogWorker: post: Replace_Stuff.OverMineable.UnFogFix.Postfix
+FoodUtility.BestFoodSourceOnMap: PRE: Replimat.ReplimatMod+Patch_BestFoodSourceOnMap.Prefix post: Replimat.ReplimatMod+Patch_BestFoodSourceOnMap.Postfix
+FoodUtility.FoodOptimality: PRE: Replimat.ReplimatMod+Patch_FoodOptimality.Prefix post: CommonSense.IngredientPriority+FoodUtility_FoodOptimality.Postfix
+FoodUtility.GetFinalIngestibleDef: PRE: Replimat.ReplimatMod+Patch_GetFinalIngestibleDef.Prefix
+FoodUtility.SpawnedFoodSearchInnerScan: PRE: Replimat.ReplimatMod+Patch_SpawnedFoodSearchInnerScan.Prefix
+FoodUtility.TryFindBestFoodSourceFor: post: RimFridge.Patch_FoodUtility_TryFindBestFoodSourceFor.Postfix
+Frame.CompleteConstruction: PRE: Replace_Stuff.Virtualize_CompleteConstruction.Prefix, Replace_Stuff.NewThing.RememberWasNewThing.Prefix TRANS: Replace_Stuff.DestroyedRestore.ReviveBuilding.Transpiler
+Frame.Destroy: PRE: Replace_Stuff.PlaceBridges.CancelFrame.Prefix, Replace_Stuff.DestroyedRestore.FrameRemoval.Prefix
+Frame.FailConstruction: PRE: Replace_Stuff.Virtualize_FailConstruction.Prefix
+Frame.MaterialsNeeded: PRE: Replace_Stuff.Virtualize_MaterialsNeeded.Prefix
+Frame.get_WorkToBuild: PRE: Replace_Stuff.Virtualize_WorkToBuild.Prefix post: Replace_Stuff.NewThing.NewThingDeconstructWork.Postfix
+Game.DeinitAndRemoveMap: post: HugsLib.Patches.Game_DeinitAndRemoveMap_Patch.MapRemovalHook
+Game.FillComponents: PRE: HugsLib.Patches.Game_FillComponents_Patch.GameInitializationHook
+Game.FinalizeInit: post: HugsLib.Patches.Game_FinalizeInit_Patch.WorldLoadedHook, CameraPlus.Game_FinalizeInit_Patch.Postfix, JustIgnoreMePassing.Game_FinalizeInit_Patch.Postfix, RimHUD.Patch.Verse_Game_FinalizeInit.Postfix
+Game.InitNewGame: PRE: AdjustableTradeShips.Patch_Game_InitNewGame.Prefix post: EdB.PrepareCarefully.HarmonyPatches.ReplaceScenarioPatch.Postfix
+Game.LoadGame: PRE: SaveOurShip2.LoadPreviousWorlds.PurgeIt
+GameComponentUtility.LoadedGame: post: RimFridge.Patch_GameComponentUtility_LoadedGame.Postfix
+GameComponentUtility.StartedNewGame: post: RimFridge.Patch_GameComponentUtility_StartedNewGame.Postfix
+GameConditionManager.ConditionIsActive: post: SaveOurShip2.SpacecraftAreHardenedAgainstSolarFlares.Nope
+GameDataSaveLoader.SaveGame: post: RealRuins.RealRuins+SaveGame_Patch.Postfix, RealRuins.RealRuins+SaveGame_Patch.Postfix
+GenConstruct.BlocksConstruction: PRE: Share_The_Load.PawnBlockConstruction.Prefix, Replace_Stuff.PlaceBridges.HandleBlocksConstruction.Prefix, Replace_Stuff.Other.PawnBlockConstruction.Prefix, JustIgnoreMePassing.GenConstruct_BlocksConstruction_Patch.Prefix post: Replace_Stuff.CoolerWallShare_Blocks.Postfix, Replace_Stuff.ReplaceFrameNoBlock.Postfix, Replace_Stuff.OverMineable.MineableBlocksConstruction.Postfix, Replace_Stuff.NewThing.NewThingBlocksConstruction.Postfix TRANS: Replace_Stuff.Other.FramesDontBlock.Transpiler
+GenConstruct.CanBuildOnTerrain: TRANS: Replace_Stuff.PlaceBridges.CanPlaceBlueprint.Transpiler
+GenConstruct.CanPlaceBlueprintAt: post: Replace_Stuff.NormalBuildReplace.Postfix TRANS: Replace_Stuff.NormalBuildReplace.Transpiler, Replace_Stuff.OverMineable.BlueprintOverFogged.Transpiler, Replace_Stuff.OverMineable.InteractionSpot.Transpiler
+GenConstruct.CanPlaceBlueprintOver: post: Replace_Stuff.CoolerWallShare_Blueprint.Postfix, Replace_Stuff.OverMineable.CanPlaceBlueprintOverMineable.Postfix, Replace_Stuff.NewThing.CanPlaceBlueprintOverOldThing.Postfix TRANS: Replace_Stuff.OverMineable.FramesAreEdificesInSomeCases.Transpiler
+GenConstruct.HandleBlockingThingJob: TRANS: Share_The_Load.HandleAllBlockingThings.Transpiler, Replace_Stuff.OverMineable.DontMineSmoothingRock.Transpiler
+GenConstruct.PlaceBlueprintForBuild: PRE: Replace_Stuff.Replace.InterceptBlueprint.Prefix, Replace_Stuff.PlaceBridges.InterceptBlueprintPlaceBridgeFrame.Prefix, Replace_Stuff.OverMineable.InterceptBlueprintOverMinable.Prefix
+GenConstruct.PlaceBlueprintForInstall: PRE: Replace_Stuff.PlaceBridges.InterceptBlueprintPlaceBridgeFrame_Install.Prefix
+GenConstruct.PlaceBlueprintForReinstall: PRE: Replace_Stuff.PlaceBridges.InterceptBlueprintPlaceBridgeFrame_Reinstall.Prefix
+GenDrop.TryDropSpawn: post: CommonSense.GenPlace_TryPlaceThing_CommonSensePatch.Postfix
+GenGameEnd.EndGameDialogMessage: post: RealRuins.RealRuins+GameOver_Patch.Postfix, RealRuins.RealRuins+GameOver_Patch.Postfix
+GenHostility.HostileTo: PRE: AnimalsLogic.GenHostility_IsPredatorHostileTo_Patch.Prefix post: AnimalsLogic.GenHostility_IsPredatorHostileTo_Patch.Postfix
+GenMapUI.DrawPawnLabel: PRE: [10000]CameraPlus.GenMapUI_DrawPawnLabel_Patch.Prefix
+GenMapUI.DrawThingLabel: PRE: [10000]CameraPlus.GenMapUI_DrawThingLabel_Patch.Prefix TRANS: CameraPlus.GenMapUI_DrawThingLabel_Patch.Transpiler
+GenPath.ShouldNotEnterCell: post: Replace_Stuff.OverMineable.ShouldNotEnterCellPatch.Postfix
+GenPlace.TryFindPlaceSpotNear: PRE: DontBlockDoorMod.PatchForGenPlace.Prefix
+GenPlace.TryPlaceDirect: PRE: LWM.DeepStorage.Patch_TryPlaceDirect.Prefix post: LWM.DeepStorage.Patch_TryPlaceDirect.Postfix
+GenSpawn.Refund: post: Replace_Stuff.NewThing.RefundDeconstruct.Postfix TRANS: Replace_Stuff.NewThing.RefundDeconstruct.Transpiler
+GenSpawn.Spawn: PRE: Replace_Stuff.NewThing.TransferSettings.Prefix post: Replace_Stuff.NewThing.TransferSettings.Postfix TRANS: LWM.DeepStorage.Patch_GenSpawn_Spawn.Transpiler
+GenSpawn.SpawningWipes: PRE: Replace_Stuff.PlaceBridges.DontWipeBridgeBlueprints.Prefix post: Replace_Stuff.CoolerWallShare_Wipes.Postfix, Replace_Stuff.CoolerWipesCooler.Postfix, Replace_Stuff.OverMineable.NoWipeFrame.Postfix, Replace_Stuff.BlueprintReplace.WipeBlueprints.Postfix
+GenTemperature.TryGetTemperatureForCell: post: RimFridge.Patch_GenTemperature_TryGetDirectAirTemperatureForCell.Postfix
+GenUI.ThingsUnderMouse: TRANS: LWM.DeepStorage.Patch_GenUI_ThingsUnderMouse.Transpiler
+GhostDrawer.DrawGhostThing: PRE: Replace_Stuff.OverMineable.GhostOverFogChecker.Prefix
+GhostUtility.GhostGraphicFor: TRANS: Replace_Stuff.OverMineable.ShowGhostOverFog.Transpiler
+GlobalControls.TemperatureString: post: SaveOurShip2.ShowBreathability.CheckO2
+GlowFlooder.AddFloodGlowFor: TRANS: OpenedDoorsDontBlockLight.GlowFlooder_Patch.Transpiler
+HaulAIUtility.HaulToCellStorageJob: TRANS: LWM.DeepStorage.Patch_HaulToCellStorageJob.Transpiler
+HaulAIUtility.HaulablePlaceValidator: PRE: DontBlockDoorMod.Patch_TryFindSpotToPlaceHaulableCloseTo.Prefix
+HaulAIUtility.TryFindSpotToPlaceHaulableCloseTo: post: Replace_Stuff.OverMineable.TryFindSpotToPlaceHaulableCloseToPatch.Postfix
+HealthAIUtility.FindBestMedicine: PRE: [800]InfiniteStorage.HarmonyPatches+Patch_HealthAIUtility_FindBestMedicine.Prefix, Pharmacist.HealthAIUtility_FindBestMedicine.Prefix
+HealthCardUtility.DrawMedOperationsTab: PRE: [800]InfiniteStorage.HarmonyPatches+Patch_HealthCardUtility_DrawMedOperationsTab.Prefix post: InfiniteStorage.HarmonyPatches+Patch_HealthCardUtility_DrawMedOperationsTab.Postfix
+HealthCardUtility.DrawPawnHealthCard: PRE: DubsMintMenus.Patch_HealthCardUtility.Prefix post: DubsMintMenus.Patch_HealthCardUtility.Postfix
+HistoryAutoRecorder.ExposeData: post: InfiniteStorage.HarmonyPatches+Patch_HistoryAutoRecorder_ExposeData.Postfix
+ITab.get_PaneTopY: PRE: RimHUD.Patch.RimWorld_ITab_PaneTopY.Prefix
+ITab_Bills.FillTab: PRE: DubsMintMenus.HarmonyPatches.Prefix
+ITab_Pawn_Gear.DrawThingRow: PRE: CommonSense.ITab_Pawn_Gear_DrawThingRow_CommonSensePatch.Prefix TRANS: PickUpAndHaul.HarmonyPatches.GearTabHighlightTranspiler
+ITab_Pawn_Gear.InterfaceDrop: PRE: SimpleSidearms.intercepts.ITab_Pawn_Gear_InterfaceDrop_Prefix.InterfaceDrop
+ITab_Pawn_Health.FillTab: PRE: DubsMintMenus.Patch_ITab_Pawn_Health.Prefix
+ITab_Storage.FillTab: PRE: RSA.ITab_Storage_FillTab.Before_ITab_Storage_FillTab
+IncidentWorker_TraderCaravanArrival.CanFireNowSub: post: SaveOurShip2.NoTradersInSpace.Nope
+InspectGizmoGrid.DrawInspectGizmoGridFor: TRANS: AllowTool.Patches.InspectGizmoGrid_DrawInspectGizmoGridFor_Patch.RegisterReverseDesignatorCommandPair, Blueprints.Patch_InspectGizmoGrid_DrawInspectGizmoGridFor.Transpiler
+InspectPaneFiller.DoPaneContentsFor: PRE: RimHUD.Patch.RimWorld_InspectPaneFiller_DoPaneContentsFor.Prefix
+InspectPaneUtility.DoTabs: PRE: RimHUD.Patch.RimWorld_InspectPaneUtility_DoTabs.Prefix
+InspectPaneUtility.InspectPaneOnGUI: PRE: RimHUD.Patch.RimWorld_InspectPaneUtility_InspectPaneOnGUI.Prefix
+InspectPaneUtility.PaneSizeFor: PRE: RimHUD.Patch.RimWorld_InspectPaneUtility_PaneSizeFor.Prefix
+InspectPaneUtility.PaneWidthFor: PRE: RimHUD.Patch.RimWorld_InspectPaneUtility_PaneWidthFor.Prefix
+ItemAvailability.ThingsAvailableAnywhere: PRE: Share_The_Load.DeliverAsMuchAsPossible.Prefix post: InfiniteStorage.Patch_ItemAvailability_ThingsAvailableAnywhere.Postfix
+JobDriver_AttackMelee.TryMakePreToilReservations: post: SimpleSidearms.intercepts.JobDriver_AttackMelee_TryMakePreToilReservations.Postfix
+JobDriver_CarryToCryptosleepCasket.MakeNewToils: PRE: SaveOurShip2.JobDriverFix.BlockExecution post: SaveOurShip2.JobDriverFix.FillThatCasket
+JobDriver_DoBill.MakeNewToils: PRE: CommonSense.JobGiver_DoBIll_Rework+JobDriver_DoBill_MakeNewToils_CommonSensePatch.Prefix
+JobDriver_FoodDeliver.GetReport: post: Replimat.ReplimatMod+Patch_JobDriver_FoodDeliver_GetReport.Postfix
+JobDriver_FoodFeedPatient.GetReport: post: Replimat.ReplimatMod+Patch_JobDriver_FoodFeedPatient_GetReport.Postfix
+JobDriver_HaulToCell.MakeNewToils: post: PickUpAndHaul.HarmonyPatches.JobDriver_HaulToCell_PostFix
+JobDriver_Ingest.GetReport: post: Replimat.ReplimatMod+Patch_JobDriver_Ingest_GetReport.Postfix
+JobDriver_LayEgg.MakeNewToils: PRE: AnimalsLogic.JobDriver_LayEgg_MakeNewToils_Patch.Prefix
+JobDriver_ManTurret.FindAmmoForTurret: PRE: InfiniteStorage.JobDriver_ManTurret_FindAmmoForTurret.Prefix
+JobDriver_PredatorHunt.CheckWarnPlayer: PRE: PredatorHuntAlert.JobDriver_PredatorHunt_CheckWarnPlayer_Patch.Replace
+JobDriver_Wait.CheckForAutoAttack: post: AllowTool.Patches.JobDriverWait_CheckForAutoAttack_Patch.DoPartyHunting
+JobGiver_DropUnusedInventory.Drop: PRE: PickUpAndHaul.HarmonyPatches.Drop_Prefix
+JobGiver_DropUnusedInventory.TryGiveJob: post: PickUpAndHaul.HarmonyPatches.DropUnusedInventory_PostFix
+JobGiver_EatRandom.TryGiveJob: PRE: AnimalsLogic.DoNotEatRandomly+JobGiver_EatRandom_TryGiveJob_Patch.Prefix
+JobGiver_GetFood.TryGiveJob: post: PredatorHuntAlert.JobGiver_GetFood_TryGiveJob_Patch.AlertTargetedByPredator
+JobGiver_GetJoy.TryGiveJob: PRE: CommonSense.CravingForOutdoors+JobGiver_GetJoy_TryGiveJob_CommonSensePatch.Prefix
+JobGiver_GetRest.TryGiveJob: TRANS: Replace_Stuff.Replace.DisableBed.Transpiler
+JobGiver_Idle.TryGiveJob: post: PickUpAndHaul.HarmonyPatches.IdleJoy_Postfix
+JobGiver_LayEgg.TryGiveJob: PRE: AnimalsLogic.JobGiver_LayEgg_TryGiveJob_Patch.Prefix
+JobGiver_OptimizeApparel.TryGiveJob: post: ChangeDresser.Patch_JobGiver_OptimizeApparel.Postfix
+JobGiver_PackFood.TryGiveJob: PRE: CommonSense.JoyPriority+JobGiver_PackFood_TryGiveJob_CommonSensePatch.Prefix
+JobGiver_SeekAllowedArea.TryGiveJob: PRE: AnimalsLogic.YouSleepHere+JobGiver_SeekAllowedArea_TryGiveJob_Patch.Prefix
+JobGiver_UnloadYourInventory.TryGiveJob: PRE: CommonSense.JobGiver_UnloadYourInventory_TryGiveJob_CommonSensePatch.Prefix
+JoyGiver_Ingest.CreateIngestJob: post: CommonSense.FoodCountLimiter+JobGiver_GetJoy_TryGiveJob_CommonSensePatch.Postfix
+LanguageDatabase.SelectLanguage: PRE: HugsLib.Patches.LanguageDatabase_Patch.ForceRestartAfterLangChange
+LetterStack.LettersOnGUI: PRE: RimHUD.Patch.Verse_LetterStack_LettersOnGUI.Prefix
+LetterStack.ReceiveLetter: PRE: EnhancedDevelopment.EnhancedOptions.Detours.PatchLetterStack.ReceiveLetterPrefix
+ListerFilthInHomeArea.Notify_FilthSpawned: PRE: CleaningArea.ListerFilthInCleaningArea_Patch+NotifyFilthSpawnedPath.Prefix
+ListerFilthInHomeArea.Notify_HomeAreaChanged: PRE: CleaningArea.ListerFilthInCleaningArea_Patch+NotifyHomeAreaChangedPatch.Prefix
+ListerHaulables.ListerHaulablesTick: TRANS: LWM.DeepStorage.Patch_ListerHaulablesTick.Transpiler
+ListerThings.ThingsInGroup: post: InfiniteStorage.HarmonyPatches+Patch_ListerThings_ThingsInGroup.Postfix
+Listing_TreeThingFilter.DoCategoryChildren: PRE: RSA.Core.ThingFilter_InjectFilter.Before_DoCategoryChildren
+MainButtonsRoot.MainButtonsOnGUI: PRE: DubsMintMenus.HarmonyPatches+Patch_MainButtonsOnGUI.Prefix
+MainMenuDrawer.Init: PRE: SaveOurShip2.SelectiveWorldGenCancel.CancelFlag
+MainTabWindow_Inspect.get_PaneTopY: PRE: RimHUD.Patch.RimWorld_MainTabWindow_Inspect_PaneTopY.Prefix
+MainTabsRoot.HandleLowPriorityShortcuts: PRE: DubsMintMenus.HarmonyPatches+Patch_InterfaceTryActivate.Prefix post: RangeFinder.MainTabsRoot_HandleLowPriorityShortcuts_Patch.Postfix
+MainTabsRoot.ToggleTab: PRE: DubsMintMenus.HarmonyPatches+Patch_MainTabsRoot.Prefix
+Map.ConstructComponents: post: HugsLib.Patches.Map_ConstructComponents_Patch.MapComponentsInitHook
+Map.FinalizeInit: post: HugsLib.Patches.Map_FinalizeInit_Patch.MapLoadedHook
+Map.FinalizeLoading: post: RangeFinder.Map_FinalizeLoading_Patch.Postfix
+Map.get_Biome: PRE: SaveOurShip2.SpaceBiomeGetter.interceptBiome post: SaveOurShip2.SpaceBiomeGetter.getSpaceBiome
+MapComponentUtility.MapGenerated: post: HugsLib.Patches.MapComponentUtility_MapGenerated_Patch.MapGeneratedHook
+MapDrawer.DrawMapMesh: PRE: SaveOurShip2.RenderPlanetBehindMap.PreDraw
+MapInterface.MapInterfaceOnGUI_AfterMainTabs: PRE: RimHUD.Patch.Verse_MapInterface_MapInterfaceOnGUI_AfterMainTabs.Prefix
+MapInterface.MapInterfaceUpdate: post: HeatMap.MapInterface_Detour.Postfix
+MapInterface.Notify_SwitchedMap: post: RimHUD.Patch.Verse_MapInterface_Notify_SwitchedMap.Postfix
+MapParent.RecalculateHibernatableIncidentTargets: post: SaveOurShip2.GiveMeRaidsPlease.RaidsAreFunISwear
+MapTemperature.get_OutdoorTemp: post: SaveOurShip2.FixOutdoorTemp.getSpaceTemp
+MapTemperature.get_SeasonalTemp: post: SaveOurShip2.FixSeasonalTemp.getSpaceTemp
+MassUtility.Capacity: post: SaveOurShip2.FixShuttleCarryCap.RealCarryWeight
+MemoryUtility.ClearAllMapsAndWorld: PRE: RimHUD.Patch.Verse_Profile_MemoryUtility_ClearAllMapsAndWorld.Prefix, DubsMintMenus.HarmonyPatches+Patch_ClearAllMapsAndWorld.Prefix
+ModLister.RebuildModList: post: CrossPromotionModule.CrossPromotion.ModLister_RebuildModList_Postfix
+ModsConfig.RestartFromChangedMods: PRE: HugsLib.Patches.ModsConfig_RestartFromChangedMods_Patch.QuickRestartInDevMode
+MoteMaker.ThrowText: PRE: CameraPlus.MoteMaker_ThrowText_Patch.Prefix
+OutfitDatabase.TryDelete: post: ChangeDresser.Patch_OutfitDatabase_TryDelete.Postfix
+Page.CanDoBack: post: SaveOurShip2.NoGoingBackWhenMakingANewScenario.Nope
+Page_ConfigureStartingPawns.DoWindowContents: post: EdB.PrepareCarefully.HarmonyPatches.PrepareCarefullyButtonPatch.Postfix
+Page_ConfigureStartingPawns.PreOpen: post: EdB.PrepareCarefully.HarmonyPatches.ClearOriginalScenarioPatch.Postfix
+Page_ModsConfig.DoWindowContents: TRANS: CrossPromotionModule.CrossPromotion.Page_ModsConfig_DoWindowContents_Transpiler
+Page_ModsConfig.PostClose: post: CrossPromotionModule.CrossPromotion.Page_ModsConfig_PostClose_Postfix
+Page_SelectScenario.BeginScenarioConfiguration: PRE: SaveOurShip2.DoNotWipeGame.UseTheFlag
+Page_SelectStartingSite.CanDoNext: PRE: SaveOurShip2.LetMeLandOnMyOwnBase.Nope post: SaveOurShip2.LetMeLandOnMyOwnBase.CanLandPlz
+Pawn.ButcherProducts: post: AnimalsLogic.TastesLikeChicken+Pawn_ButcherProducts_Patch.Postfix
+Pawn.GetGizmos: post: AllowTool.Patches.Pawn_GetGizmos_Patch.InsertPartyHuntGizmo, ChangeDresser.Patch_Pawn_GetGizmos.Postfix, SimpleSidearms.intercepts.Pawn_GetGizmos_Postfix.GetGizmos, SaveOurShip2.ShuttleGizmoFix.GetAllTheGizmos
+Pawn.Kill: PRE: [800]WeaponStorage.Patch_Pawn_Kill.Prefix, [800]ChangeDresser.Patch_Pawn_Kill.Prefix post: [800]WeaponStorage.Patch_Pawn_Kill.Postfix, [800]ChangeDresser.Patch_Pawn_Kill.Postfix
+PawnGenerator.GenerateGearFor: post: SimpleSidearms.intercepts.PawnGenerator_GenerateGearFor_Postfix.GenerateGearFor
+PawnGenerator.GeneratePawnRelations: PRE: SaveOurShip2.FixThatPawnGenerationBug3.DisableMethod
+PawnGroupMakerUtility.TryGetRandomFactionForCombatPawnGroup: PRE: SaveOurShip2.NoRaidsFromPreviousPlanets.DisableMethod post: SaveOurShip2.NoRaidsFromPreviousPlanets.Replace
+PawnRenderer.CarryWeaponOpenly: post: SimpleSidearms.intercepts.PawnRenderer_CarryWeaponOpenly_Postfix.CarryWeaponOpenly
+PawnRenderer.RenderPawnAt: PRE: [10000]CameraPlus.PawnRenderer_RenderPawnAt_Patch.Prefix post: CameraPlus.PawnRenderer_RenderPawnAt_Patch.Postfix
+PawnTable.PawnTableOnGUI: PRE: WorkTab.PawnTable_PawnTableOnGUI.Prefix
+PawnTable.RecacheIfDirty: PRE: WorkTab.PawnTable_RecacheIfDirty.Prefix post: WorkTab.PawnTable_RecacheIfDirty.Postfix
+Pawn_ApparelTracker.Notify_ApparelAdded: PRE: ChangeDresser.Patch_Pawn_ApparelTracker_Notify_ApparelAdded.Prefix
+Pawn_ApparelTracker.Notify_ApparelRemoved: post: ChangeDresser.Patch_Pawn_ApparelTracker_Notify_ApparelRemoved.Postfix
+Pawn_DraftController.GetGizmos: post: WeaponStorage.HarmonyPatches+Patch_Pawn_DraftController_GetGizmos.Postfix, ChangeDresser.Patch_Pawn_DraftController_GetGizmos.Postfix, DefensivePositions.DraftController_GetGizmos_Patch.InsertDefensivePositionGizmo
+Pawn_DraftController.set_Drafted: post: AllowTool.Patches.DraftController_Drafted_Patch.NotifyPawnUndrafted, WeaponStorage.Patch_Pawn_DraftController.Postfix, ChangeDresser.Patch_Pawn_DraftController.Postfix, SimpleSidearms.intercepts.Pawn_DraftController_Drafted_Setter_Postfix.DraftedSetter
+Pawn_DrugPolicyTracker.AllowedToTakeScheduledNow: PRE: CommonSense.DrugPolicy+Pawn_DrugPolicyTracker_AllowedToTakeScheduledNow_CommonSensePatch.Prefix
+Pawn_EquipmentTracker.AddEquipment: PRE: [800]WeaponStorage.Patch_Pawn_AddEquipment.Prefix post: SimpleSidearms.intercepts.Pawn_EquipmentTracker_AddEquipment.AddEquipment_Postfix
+Pawn_EquipmentTracker.MakeRoomFor: PRE: [800]WeaponStorage.Patch_Pawn_EquipmentTracker_MakeRoomFor.Prefix
+Pawn_EquipmentTracker.TryDropEquipment: PRE: [800]WeaponStorage.Patch_Pawn_EquipmentTracker_TryDropEquipment.Prefix post: [800]WeaponStorage.Patch_Pawn_EquipmentTracker_TryDropEquipment.Postfix, SimpleSidearms.intercepts.Pawn_EquipmentTracker_TryDropEquipment.TryDropEquipment_Postfix
+Pawn_HealthTracker.MakeDowned: PRE: [800]WeaponStorage.Patch_Pawn_HealthTracker_MakeDowned.Prefix, SimpleSidearms.intercepts.Pawn_HealthTracker_MakeDowned.MakeDowned_Prefix
+Pawn_HealthTracker.MakeUndowned: PRE: [800]WeaponStorage.Patch_Pawn_HealthTracker_MakeUndowned.Prefix
+Pawn_InventoryTracker.Notify_ItemRemoved: post: PickUpAndHaul.HarmonyPatches.Pawn_InventoryTracker_PostFix
+Pawn_InventoryTracker.get_FirstUnloadableThing: post: SimpleSidearms.intercepts.Pawn_InventoryTracker_FirstUnloadableThing.Postfix
+Pawn_JobTracker.CleanupCurrentJob: TRANS: CommonSense.PutBackToBackpack+Pawn_CleanupCurrentJob_CommonSensePatch.Transpiler
+Pawn_JobTracker.EndCurrentJob: PRE: CommonSense.OpportunisticTasks+Pawn_JobTracker_EndCurrentJob_CommonSensePatch.Prefix
+Pawn_JobTracker.StartJob: PRE: CommonSense.OpportunisticTasks+Pawn_JobTracker_StartJob_CommonSensePatch.Prefix post: AnimalsLogic.Come+Pawn_JobTracker_StartJob_Patch.Postfix
+Pawn_MeleeVerbs.TryMeleeAttack: post: [800]WeaponStorage.Patch_Pawn_MeleeVerbs_TryMeleeAttack.Postfix
+Pawn_PathFollower.SetupMoveIntoNextCell: post: SaveOurShip2.SpaceZoomies.GoFast
+Pawn_TraderTracker.ColonyThingsWillingToBuy: post: WeaponStorage.Patch_TradeShip_ColonyThingsWillingToBuy.Postfix, ChangeDresser.Patch_TradeShip_ColonyThingsWillingToBuy.Postfix, InfiniteStorage.Patch_TradeShip_ColonyThingsWillingToBuy.Postfix
+Pawn_TrainingTracker.TrainingTrackerTickRare: TRANS: AnimalsLogic.ForgetMeNot+Pawn_TrainingTracker_TrainingTrackerTickRare_Patch.Transpiler
+Pawn_WorkSettings.CacheWorkGiversInOrder: PRE: WorkTab.Pawn_WorkSettings_CacheWorkGiversInOrder.Prefix
+Pawn_WorkSettings.DisableAll: PRE: WorkTab.Pawn_WorkSettings_DisableAll.Prefix
+Pawn_WorkSettings.EnableAndInitialize: TRANS: WorkTab.Pawn_WorkSettings_EnableAndInitialize.Transpiler
+Pawn_WorkSettings.GetPriority: PRE: WorkTab.Pawn_WorkSettings_GetPriority.Prefix
+Pawn_WorkSettings.SetPriority: PRE: WorkTab.Pawn_WorkSettings_SetPriority.Prefix
+PlaceWorker_Conduit.AllowsPlacing: TRANS: Replace_Stuff.OverMineable.FixConduitPlaceWorker.Transpiler
+PlaceWorker_Cooler.AllowsPlacing: PRE: Replace_Stuff.CoolersOverWalls.AllowBuildPlugged.Prefix
+PlaceWorker_Cooler.DrawGhost: TRANS: Replace_Stuff.CoolersOverWalls.WideVentLocationGhost.Transpiler
+PlaceWorker_PreventInteractionSpotOverlap.AllowsPlacing: TRANS: Replace_Stuff.NewThing.IgnoreInteractionSpotOverlap.Transpiler
+PlaceWorker_Vent.AllowsPlacing: PRE: Replace_Stuff.CoolersOverWalls.AllowBuildPlugged_Vent.Prefix
+Plant.IngestedCalculateAmounts: PRE: GrazingLands.PlantPropertiesPatch+Plant_IngestedCalculateAmounts_GrazingLandsPatch.Prefix
+Plant.TickLong: post: SaveOurShip2.KillThePlantsInSpace.extinguish
+PlantToGrowSettableUtility.SetPlantToGrowCommand: PRE: DubsMintMenus.Patch_SetPlantToGrowCommand.Prefix
+PlayDataLoader.DoPlayLoad: post: HugsLib.Patches.PlayDataLoader_Patch.InitModsHook
+PlaySettings.DoPlaySettingsGlobalControls: post: Replace_Stuff.OverMineable.PlaySettings_BlueprintOverRockToggle.AddButton, RimHUD.Patch.RimWorld_PlaySettings_DoPlaySettingsGlobalControls.Postfix, CleaningArea.PlaySettingsPatch.Postfix, HeatMap.PlaySettings_Detour.PostFix, FollowMe.Patch_DoPlaySettingsGlobalControls.Postfix
+PlaySettings.ExposeData: PRE: Replace_Stuff.OverMineable.PlaySettings_ExposeData.Prefix
+PowerNetGraphics.PrintWirePieceConnecting: PRE: EnhancedDevelopment.EnhancedOptions.Detours.PatchPowerNetGraphics.PrintWirePieceConnectingPrefix
+QuestNode_GetMap.IsAcceptableMap: post: SaveOurShip2.NoQuestsInSpace.Fixpost
+ReachabilityUtility.CanReach: PRE: RimFridge.Patch_ReachabilityUtility_CanReach.Prefix
+RecipeWorkerCounter.CountProducts: post: WeaponStorage.Patch_RecipeWorkerCounter_CountProducts.Postfix, ChangeDresser.Patch_RecipeWorkerCounter_CountProducts.Postfix, InfiniteStorage.Patch_RecipeWorkerCounter_CountProducts.Postfix
+Recipe_RemoveBodyPart.GetPartsToApplyOn: post: Harvest_Everything.Patch.GetPartsPostfix
+RefuelWorkGiverUtility.FindAllFuel: PRE: InfiniteStorage.HarmonyPatches+Patch_RefuelWorkGiverUtility_FindAllFuel.Prefix post: InfiniteStorage.HarmonyPatches+Patch_RefuelWorkGiverUtility_FindAllFuel.Postfix
+RefuelWorkGiverUtility.FindBestFuel: PRE: InfiniteStorage.HarmonyPatches+Patch_RefuelWorkGiverUtility_FindBestFuel.Prefix post: InfiniteStorage.HarmonyPatches+Patch_RefuelWorkGiverUtility_FindBestFuel.Postfix
+Region.DangerFor: post: SaveOurShip2.VacuumIsNotFun.AccurateAssessmentOfDanger
+ResearchManager.ExposeData: PRE: DubsMintMenus.HarmonyPatches+Patch_ResearchManager.Prefix
+ResearchManager.FinishProject: PRE: DubsMintMenus.Patch_FinishProject.Prefix post: DubsMintMenus.Patch_FinishProject.Postfix, DubsMintMenus.HarmonyPatches+Patch_FinishProject.Postfix
+ReservationManager.CanReserve: PRE: Share_The_Load.CanReserve_Patch.Prefix, InfiniteStorage.Patch_ReservationManager_CanReserve.Prefix, Replace_Stuff.Replace.ReserveSharing.Prefix post: WeaponStorage.Patch_ReservationManager_CanReserve.Postfix, ChangeDresser.Patch_ReservationManager_CanReserve.Postfix
+ReservationManager.CanReserveStack: PRE: Replace_Stuff.Replace.ReserveSharing.Prefix
+ReservationManager.FirstRespectedReserver: PRE: Replace_Stuff.Replace.ReserveSharing.Prefix
+ReservationManager.IsReservedAndRespected: PRE: Replace_Stuff.Replace.ReserveSharing.Prefix
+ReservationManager.IsReservedByAnyoneOf: PRE: Replace_Stuff.Replace.ReserveSharing.Prefix
+ReservationManager.LogCouldNotReserveError: PRE: Replace_Stuff.Replace.ReserveSharing.Prefix
+ReservationManager.Release: PRE: Share_The_Load.Release_Patch.Prefix, InfiniteStorage.Patch_ReservationManager_Release.Prefix, Replace_Stuff.Replace.ReserveSharing.Prefix
+ReservationManager.ReleaseAllClaimedBy: PRE: Share_The_Load.ReleaseAllClaimedBy_Patch.Prefix
+ReservationManager.ReleaseClaimedBy: PRE: Share_The_Load.ReleaseClaimedBy_Patch.Prefix
+ReservationManager.Reserve: PRE: Share_The_Load.Reserve_Patch.Prefix, InfiniteStorage.Patch_ReservationManager_Reserve.Prefix, Replace_Stuff.Replace.ReserveSharing.Prefix
+ReservationManager.ReservedBy: PRE: Replace_Stuff.Replace.ReserveSharing.Prefix
+ReservationManager.ReservedBy: PRE: Replace_Stuff.Replace.ReserveSharing.Prefix
+ResourceCounter.UpdateResourceCounts: post: InfiniteStorage.Patch_ResourceCounter_UpdateResourceCounts.Postfix
+ReverseDesignatorDatabase.InitDesignators: post: AllowTool.Patches.ReverseDesignatorDatabase_Init_Patch.InjectReverseDesignators
+RoofGrid.GetCellExtraColor: post: SaveOurShip2.ShowHullTilesOnRoofGrid.HullsAreColorful
+RoomGroupTempTracker.EqualizeTemperature: post: SaveOurShip2.ExposedToVacuum.setShipTemp
+RoomGroupTempTracker.ThinRoofEqualizationTempChangePerInterval: post: SaveOurShip2.TemperatureDoesntDiffuseFastInSpaceToo.RadiativeHeatTransferOnly
+RoomGroupTempTracker.WallEqualizationTempChangePerInterval: post: SaveOurShip2.TemperatureDoesntDiffuseFastInSpace.RadiativeHeatTransferOnly
+Root.Update: post: HugsLib.Patches.Root_Patch.UpdateHook
+Root_Play.SetupForQuickTestPlay: TRANS: HugsLib.Patches.RootPlay_TestPlay_Patch.InjectCustomQuickstartSettings
+Scenario.PostWorldGenerate: PRE: SaveOurShip2.SelectiveWorldGeneration.Replace
+Scenario.get_Category: PRE: SaveOurShip2.FixThatBugInParticular.NoLongerUndefined
+ScribeSaver.InitSaving: PRE: WeaponStorage.Patch_ScribeSaver_InitSaving.Prefix, ChangeDresser.Patch_ScribeSaver_InitSaving.Prefix, InfiniteStorage.Patch_ScribeSaver_InitSaving.Prefix
+SectionLayer.ClearSubMeshes: post: SaveOurShip2.GenerateSpaceSubMesh.GenerateMesh
+SectionLayer.DrawLayer: PRE: SaveOurShip2.HideLightingLayersInSpace.ShouldDraw post: SaveOurShip2.HideLightingLayersInSpace.Cleanup
+SectionLayer_Things.Regenerate: TRANS: LWM.DeepStorage.PatchDisplay_SectionLayer_Things_Regenerate.Transpiler
+SelectionDrawer.DrawSelectionOverlays: PRE: RangeFinder.SelectionDrawer_DrawSelectionOverlays_Patch.Prefix
+Selector.HandleMapClicks: PRE: LWM.DeepStorage.Patch_HandleMapClicks.Prefix
+Selector.Select: post: LWM.DeepStorage.Open_DS_Tab_On_Select.Postfix
+Selector.SelectAllMatchingObjectUnderMouseOnScreen: PRE: LWM.DeepStorage.Make_DoubleClick_Work.Prefix post: LWM.DeepStorage.Make_DoubleClick_Work.Postfix
+Selector.SelectUnderMouse: PRE: LWM.DeepStorage.Make_Select_Under_Mouse_Use_SortForDeepStorage.Prefix post: LWM.DeepStorage.Make_Select_Under_Mouse_Use_SortForDeepStorage.Postfix
+SettlementAbandonUtility.Abandon: PRE: [800]WeaponStorage.Patch_SettlementAbandonUtility_Abandon.Prefix, [800]ChangeDresser.Patch_SettlementAbandonUtility_Abandon.Prefix, [800]InfiniteStorage.Patch_SettlementAbandonUtility_Abandon.Prefix
+Settlement_TraderTracker.get_TradePriceImprovementOffsetForPlayer: post: The_Price_Is_Right.TradePriceOffset.Postfix
+ShipCountdown.CountdownEnded: PRE: SaveOurShip2.SaveShip.SaveShipAndRemoveItemStacks
+ShipCountdown.InitiateCountdown: PRE: SaveOurShip2.InitShipRefs.SaveStatics
+ShipUtility.LaunchFailReasons: PRE: SaveOurShip2.FindLaunchFailReasons.DisableOriginalMethod post: SaveOurShip2.FindLaunchFailReasons.FindLaunchFailReasonsReally
+ShipUtility.ShipBuildingsAttachedTo: PRE: SaveOurShip2.FindAllTheShipParts.DisableOriginalMethod post: SaveOurShip2.FindAllTheShipParts.FindShipPartsReally
+ShortCircuitUtility.DoShortCircuit: PRE: RT_Fuse.Patch_DoShortCircuit.Prefix, SaveOurShip2.NoShortCircuitCapacitors.disableEventQuestionMark post: SaveOurShip2.NoShortCircuitCapacitors.tellThePlayerTheDayWasSaved
+SkillRecord.Interval: PRE: RTMadSkills.Patch_SkillRecordInterval.Prefix, EnhancedDevelopment.EnhancedOptions.Detours.PatchSkillRecord.IntervalPrefix
+SkillRecord.Learn: PRE: RimworldNoSkillDecay.NoSkillDecay.PreventSkillLoss
+SkillRecord.LearnRateFactor: PRE: EnhancedDevelopment.EnhancedOptions.Detours.PatchSkillRecord.LearnRateFactorPrefix post: RTMadSkills.Patch_LearningSaturation.Postfix
+SkillUI.GetSkillDescription: PRE: EnhancedDevelopment.EnhancedOptions.Detours.PatchSkillUI.GetSkillDescriptionPrefix post: RTMadSkills.Patch_LearningSaturationUI.Postfix
+Skyfaller.HitRoof: PRE: SaveOurShip2.ShuttleBayAcceptsShuttle.NoHitRoof
+Stance_Warmup.StanceTick: post: SimpleSidearms.intercepts.Stance_Warmup_StanceTick_Postfix.StanceTick
+StatsReportUtility.DrawStatsReport: TRANS: CommonSense.TextChanges+StatsReportUtility_DrawStatsReport_CommonSensePatch.Transpiler
+StorageSettings.ExposeData: post: RSA.StorageSettings_ExposeData.ExposeData
+StoreUtility.IsGoodStoreCell: post: LWM.DeepStorage.Patch_IsGoodStoreCell.Postfix
+StoreUtility.NoStorageBlockersIn: PRE: DontBlockDoorMod.Patch_NoStorageBlockersIn.Prefix, LWM.DeepStorage.Patch_NoStorageBlockersIn.Prefix post: LWM.DeepStorage.Fix_RSA_Incompatibilit_NoStorageBlockersIn.Postfix
+StoreUtility.TryFindBestBetterStoreCellFor: TRANS: LWM.DeepStorage.Patch_TryFindBestBetterStoreCellFor.Transpiler
+Storyteller.Notify_DefChanged: post: AdjustableTradeShips.Patch_Storyteller_Notify_DefChanged.Postfix
+TaleReference.ExposeData: post: RealRuins.RealRuins+TaleReference_ExposeData_Patch.Postfix, RealRuins.RealRuins+TaleReference_ExposeData_Patch.Postfix
+TaleReference.GenerateText: PRE: RealRuins.RealRuins+TaleReference_GenerateText_Patch.Prefix, RealRuins.RealRuins+TaleReference_GenerateText_Patch.Prefix
+TerrainGrid.DoTerrainChangedEffects: post: SaveOurShip2.RecreateShipTile.NoClearTilesPlease
+TerrainGrid.RemoveTopLayer: PRE: Replace_Stuff.PlaceBridges.DestroyedTerrain.Prefix
+Thing.CanStackWith: post: CommonSense.MealStacking+CompIngredients_CanStackWith_CommonSensePatch.Postfix
+Thing.DeSpawn: PRE: Share_The_Load.DeSpawn_Patch.Prefix, LWM.DeepStorage.Cleanup_For_DeepStorage_Thing_At_DeSpawn.Prefix
+Thing.DrawGUIOverlay: PRE: LWM.DeepStorage.Add_DSU_GUI_Overlay.Prefix
+Thing.Notify_ColorChanged: post: Replace_Stuff.Virtualize_Notify_ColorChanged.Postfix
+Thing.SplitOff: TRANS: CommonSense.RandomIngredients+Thing_SplitOff_CommonSensePatch.CleanIngList
+Thing.get_AmbientTemperature: post: Replimat.ReplimatMod+Patch_Thing_AmbientTemperature.Postfix
+Thing.get_DefaultGraphic: TRANS: Replace_Stuff.OverMineable.ShowBluePrintOverFogDynamic.Transpiler
+Thing.get_DrawPos: post: LWM.DeepStorage.Ensure_Top_Item_In_DSU_Draws_Correctly.Postfix
+ThingDef.get_IsFoodDispenser: PRE: Replimat.ReplimatMod+Building.IsFoodDispenserPrefix
+ThingDefGenerator_Buildings.NewFrameDef_Thing: post: Replace_Stuff.OverMineable.FramesArentEdifices.Postfix
+ThingFilter.SetAllowAllWhoCanMake: PRE: CommonSense.TextChanges+ThingFilter_SetAllowAllWhoCanMake_CommonSensePatch.Prefix
+ThingFilter.get_Summary: PRE: CommonSense.TextChanges+ThingFilter_Summary_CommonSensePatch.Prefix
+ThingFilterUI.DoThingFilterConfigWindow: PRE: StorageSearch.HaulingHysteresis_InjectControls.Before_DoThingFilterConfigWindow TRANS: RSA.Core.FilterSearch_InjectSearchBox.Transpiler
+ThingListGroupHelper.Includes: PRE: Replimat.ReplimatMod+Patch_Includes.Prefix, CommonSense.IngredientPriority+ThingListGroupHelper_Includes_CommonSensePatch.Prefix
+ThingMaker.MakeThing: post: CommonSense.RandomIngredients+ThingMaker_MakeThing_CommonSensePatch.Postfix
+ThingOwnerUtility.GetAllThingsRecursively: PRE: SaveOurShip2.FixThatPawnGenerationBug2.DisableMethod
+ThingOwnerUtility.GetAllThingsRecursively: PRE: SaveOurShip2.FixThatPawnGenerationBug.DisableMethod post: SaveOurShip2.FixThatPawnGenerationBug.ReturnEmptyList
+ThingOwner`1.TryAdd: post: CommonSense.ThingOwnerThing_TryAdd_CommonSensePatch.Postfix
+ThingSelectionUtility.SelectableByMapClick: PRE: Replace_Stuff.OverMineable.FoggedSelectable.Prefix
+ThingUtility.CheckAutoRebuildOnDestroyed: TRANS: Replace_Stuff.DestroyedRestore.SaveDestroyedBuildings.Transpiler
+ThingWithComps.ExposeData: post: CommonSense.ThingWithComps_ExposeData_CommonSensePatch.Postfix
+ThingWithComps.GetFloatMenuOptions: post: AllowTool.Patches.Thing_GetFloatMenuOptions_Patch.FinishOffWhenDrafted
+ThinkNode_Priority_GetJoy.GetPriority: TRANS: CommonSense.JoyPriority+ThinkNode_Priority_GetJoy_GetPriority_CommonSensePatch.Transpiler
+TileFinder.TryFindNewSiteTile: PRE: SaveOurShip2.NoQuestsNearTileZero.DisableOriginalMethod post: SaveOurShip2.NoQuestsNearTileZero.CheckNonZeroTile
+TimeControls.DoTimeControlsGUI: PRE: CameraPlus.TimeControls_DoTimeControlsGUI_Patch.Prefix
+TimedForcedExit.ForceReform: PRE: SaveOurShip2.ReEntryIsFatal.BurnEmUp
+TimedForcedExit.StartForceExitAndRemoveMapCountdown: post: SaveOurShip2.ReEntryTime.SetTime
+Toil..ctor: post: SimpleSidearms.intercepts.Toil_ctor_Postfix._ctor
+Toils_Haul.PlaceHauledThingInCell: post: AllowTool.Patches.ToilsHaul_PlaceInCell_Patch.ClearHaulUrgently, LWM.DeepStorage.Patch_PlaceHauledThingInCell_Toil.Postfix
+Toils_Ingest.TakeMealFromDispenser: PRE: Replimat.ReplimatMod+Patch_TakeMealFromDispenser.Prefix
+TouchPathEndModeUtility.IsCornerTouchAllowed: PRE: Replace_Stuff.OverMineable.CornerBuildable.Prefix
+TouchPathEndModeUtility.MakesOccupiedCellsAlwaysReachableDiagonally: PRE: Replace_Stuff.OverMineable.CornerMineableOkay.Prefix
+TradeDeal.Reset: PRE: WeaponStorage.Patch_TradeDeal_Reset.Prefix, ChangeDresser.Patch_TradeDeal_Reset.Prefix, InfiniteStorage.Patch_TradeDeal_Reset.Prefix
+TradeShip.ColonyThingsWillingToBuy: PRE: MapWideTradeBeacon.Patcher.Target post: RimFridge.Patch_PassingShip_TryOpenComms.Postfix, WeaponStorage.Patch_PassingShip_TryOpenComms.Postfix, ChangeDresser.Patch_PassingShip_TryOpenComms.Postfix, InfiniteStorage.Patch_PassingShip_TryOpenComms.Postfix
+TradeUtility.AllLaunchableThingsForTrade: post: MapWideTradeBeacon.Patcher.AllLaunchableThingsForTrade
+TradeUtility.LaunchThingsOfType: PRE: MapWideTradeBeacon.Patcher.LaunchThingOfType
+Tradeable.InitPriceDataIfNeeded: TRANS: The_Price_Is_Right.BuySellCollapser.Transpiler
+Tradeable_Pawn.get_Label: post: AnimalsLogic.Patch_Tradeable_Pawn_Label.Postfix
+TrainableUtility.DegradationPeriodTicks: TRANS: AnimalsLogic.ForgetMeNot+TrainableUtility_DegradationPeriodTicks_Patch.Transpiler
+TrainableUtility.GetWildnessExplanation: TRANS: AnimalsLogic.ForgetMeNot+TrainableUtility_GetWildnessExplanation_Patch.Transpiler
+TrainableUtility.TamenessCanDecay: TRANS: AnimalsLogic.ForgetMeNot+TrainableUtility_TamenessCanDecay_Patch.Transpiler
+TransferableOneWay.get_Label: post: AnimalsLogic.Patch_TransferableOneWay_Label.Postfix
+TransportPodsArrivalActionUtility.DropTravelingTransportPods: PRE: SaveOurShip2.ShuttleBayArrivalPrecision.LandInBay
+TransportPodsArrivalAction_GiveToCaravan.StillValid: PRE: SaveOurShip2.MakeSureNotToLoseYourShuttle.DisableMaybe post: SaveOurShip2.MakeSureNotToLoseYourShuttle.AlwaysTrue
+TravelingTransportPods.get_End: post: SaveOurShip2.ToSpaceship.EndAtShip
+TravelingTransportPods.get_Start: post: SaveOurShip2.FromSpaceship.StartAtShip
+Trigger_UrgentlyHungry.ActivateOn: PRE: SaveOurShip2.MechsDontEat.DisableMaybe post: SaveOurShip2.MechsDontEat.Okay
+Tutor.TutorOnGUI: PRE: RimHUD.Patch.RimWorld_Tutor_TutorOnGUI.Prefix
+UIRoot.UIRootOnGUI: post: HugsLib.Patches.UIRoot_Patch.OnGUIHook
+UIRoot_Entry.Init: post: RealRuins.RealRuins+UIRoot_Entry_Init_Patch.Postfix, RealRuins.RealRuins+UIRoot_Entry_Init_Patch.Postfix
+Verb_MeleeAttack.TryCastShot: post: SimpleSidearms.intercepts.Verb_MeleeAttack_TryCastShot_PostFix.TryCastShot
+Verb_ShootOneUse.SelfConsume: post: SimpleSidearms.intercepts.Verb_ShootOneUse_SelfConsume_Postfix.SelfConsume
+VersionControl.DrawInfoInCorner: post: HarmonyMod.VersionControl_DrawInfoInCorner_Patch.Postfix
+WealthWatcher.CalculateWealthFloors: PRE: StuffedFloors.HarmonyPatch_WealthWatcher_CalculateWealthFloors.Prefix
+WealthWatcher.ForceRecount: post: WeaponStorage.HarmonyPatches+Patch_WealthWatcher_ForceRecount.Postfix, ChangeDresser.HarmonyPatches+Patch_WealthWatcher_ForceRecount.Postfix, [0]InfiniteStorage.HarmonyPatches+Patch_WealthWatcher_ForceRecount.Postfix
+WorkGiver_ClearSnow.ShouldSkip: PRE: CommonSense.WorkGiver_ClearSnow_Patch+WorkGiver_ClearSnow_ShouldSkip_CommonSensePatch.Prefix
+WorkGiver_ConstructDeliverResources.FindNearbyNeeders: TRANS: Share_The_Load.FindNearbyNeeders_Patch.Transpiler
+WorkGiver_ConstructDeliverResources.InstallJob: TRANS: MinifyEverything.MinifyEverything.InstallJobTranspiler
+WorkGiver_ConstructDeliverResources.IsNewValidNearbyNeeder: TRANS: Replace_Stuff.OverMineable.DeliverUnderRock.Transpiler
+WorkGiver_ConstructDeliverResources.ResourceDeliverJobFor: TRANS: Share_The_Load.MaterialsNeeded_Patch.Transpiler, Share_The_Load.BreakToContinue_Patch.Transpiler
+WorkGiver_ConstructDeliverResources.ShouldRemoveExistingFloorFirst: post: SaveOurShip2.DontRemoveShipFloors.CheckShipFloor
+WorkGiver_ConstructDeliverResourcesToBlueprints.JobOnThing: PRE: MinifyEverything.MinifyEverything.JobOnThingPrefix
+WorkGiver_DoBill.GetMedicalCareCategory: PRE: Pharmacist.Properties.WorkGiver_DoBill_GetMedicalCareCategory.Prefix
+WorkGiver_DoBill.TryFindBestBillIngredients: post: CommonSense.IngredientPriority+WorkGiver_DoBill_TryStartNewDoBillJob_CommonSensePatch.Postfix, MendingWeaponStoragePatch.Patch_WorkGiver_DoBill_TryFindBestBillIngredients.Postfix, WeaponStorage.HarmonyPatches+Patch_WorkGiver_DoBill_TryFindBestBillIngredients.Postfix, ChangeDresser.HarmonyPatches+Patch_WorkGiver_DoBill_TryFindBestBillIngredients.Postfix, MendingChangeDresserPatch.Patch_WorkGiver_DoBill_TryFindBestBillIngredients.Postfix, InfiniteStorage.Patch_WorkGiver_DoBill_TryFindBestBillIngredients.Postfix
+WorkGiver_DoBill.TryFindBestBillIngredientsInSet_AllowMix: PRE: CommonSense.IngredientPriority+WorkGiver_DoBill_TryFindBestBillIngredientsInSet_AllowMix_CommonSensePatch.Prefix
+WorkGiver_DoBill.TryFindBestBillIngredientsInSet_NoMix: PRE: CommonSense.IngredientPriority+WorkGiver_DoBill_TryFindBestBillIngredientsInSet_AllowMix_CommonSensePatch.Prefix
+WorkGiver_FixBrokenDownBuilding.FindClosestComponent: post: InfiniteStorage.Patch_WorkGiver_FixBrokenDownBuilding_FindClosestComponent.Postfix
+WorkGiver_Merge.JobOnThing: TRANS: CommonSense.WorkGiver_Merge_Patch.Transpiler, LWM.DeepStorage.Fix_Vanilla_WorkGiver_Merge.Transpiler
+WorkGiver_Miner.JobOnThing: post: Share_The_Load.MakeWay_Miner_Job.Postfix TRANS: Share_The_Load.MakeWay_Miner_Job.Transpiler
+WorkGiver_Miner.PotentialWorkThingsGlobal: post: Share_The_Load.MakeWay_Miner.Postfix
+WorkGiver_PlantsCut.JobOnThing: TRANS: Share_The_Load.MakeWay_Plant_Job.Transpiler
+WorkGiver_PlantsCut.PotentialWorkThingsGlobal: post: Share_The_Load.MakeWay_Plant.Postfix
+WorkGiver_TakeToBedToOperate.HasJobOnThing: PRE: AnimalsLogic.YouSleepHere+WorkGiver_TakeToBedToOperate_HasJobOnThing_Patch.Prefix
+WorkshopItems.Notify_Subscribed: post: CrossPromotionModule.CrossPromotion.WorkshopItems_Notify_Subscribed_Postfix
+World.GetUniqueLoadID: post: SaveOurShip2.FixLoadID.NewID
+WorldGenStep_Factions.GenerateFresh: PRE: SaveOurShip2.SelectiveWorldGenerationToo.DontReplace post: SaveOurShip2.SelectiveWorldGenerationToo.LoadNow
+Harmony versions present: 2.0.0.8: net.pardeike.rimworld.lib.harmony, UnlimitedHugs.HugsLib, net.pardeike.rimworld.mod.camera+, RimHUD, com.weaponstorage.rimworld.mod, PeteTimesSix.SimpleSidearms, kentington.saveourship2, LWM.DeepStorage, net.quicksilverfox.rimworld.mod.animalslogic, Uuugggg.rimworld.Share_The_Load.main, com.InfiniteStorage.rimworld.mod, Uuugggg.rimworld.Replace_Stuff.main, mehni.rimworld.pickupandhaul.main, com.mendingweaponstoragepatch.rimworld.mod, EnhancedDevelopment.WarningOptions, Dubwise.DubsMintMenus, Linkolas.Stabilize, rimworld.phomor.doorsclosefastagain, fed1s.rimworld.PawnTargetFix, RSA, RSA.Core, tikubonn.rimworld.mod.dontblockdoor, EdB.PrepareCarefully, com.modifyresearchtime.rimworld.mod, mlph.OpenedDoorsDontBlockLight, com.tammybee.predatorhuntalert, com.SupesSolutions.MapWideTradeBeacon, brrainz-crosspromotion, com.github.bc.rimworld.mod.moodbar, rimworld.dropspottradeships.smashphil, UnlimitedHugs.DefensivePositions, Syrchalis.Rimworld.SetUpCamp, com.woolstrand.realruins, Woolstrand.RealRuins; 2.0.0.7: net.pardeike.rimworld.mod.just-ignore-me-passing, UnlimitedHugs.AllowTool, com.changedresser.rimworld.mod, net.avilmask.rimworld.mod.CommonSense, com.mendingchangedresserpatch.rimworld.mod, Fluffy.StuffedFloors, fluffy.areaunlocker, net.pardeike.rimworld.mods.rangefinder, net.avilmask.rimworld.mod.GrazingLands, fluffy.pharmacist, falconne.HeatMap, Fluffy.FollowMe; 2.0.0.6: fluffy.blueprints, Uuugggg.rimworld.The_Price_Is_Right.main, io.github.ratysz.madskills, fluffy.worktab, com.rimfridge.rimworld.mod, com.github.ianjazz246.harvest_everything, com.github.alandariva.moreplanning; 2.0.0.5: com.Replimat.patches, fluffy.breakdowns, MRGames.NoSkillDecay; 2.0.0.2: rimworld.erdelf.minify_everything; 2.0.0.1: de.hatti.rimworld.mod.cleaningarea
+
+Platform information: (hidden, use publishing options to include)
+
+Log file contents:
+Mono path[0] = '[Rimworld_dir]/RimWorldWin64_Data/Managed'
+Mono config path = '[Rimworld_dir]/MonoBleedingEdge/etc'
+Initialize engine version: 2019.2.17f1 (8e603399ca02)
+[XR] Discovering subsystems at path [Rimworld_dir]/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: [Renderer information redacted]
+Begin MonoManager ReloadAssembly
+RimWorld 1.1.2579 rev1090
+Mod DeepRim: targetVersion field is obsolete, use supportedVersions instead.
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Mod DeepRim is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>)
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Mod DeepRim is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>)
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Mod Vanilla Furniture Expanded is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>)
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Mod Plant saver: targetVersion field is obsolete, use supportedVersions instead.
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Mod Plant saver is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>)
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Mod Plant saver is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>)
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Mod Research Tree: targetVersion field is obsolete, use supportedVersions instead.
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Mod Research Tree is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>)
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Mod Research Tree is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>)
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Mod Harvest Organs Post Mortem - 4.1 [1.0]: targetVersion field is obsolete, use supportedVersions instead.
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Mod Harvest Organs Post Mortem - 4.1 [1.0] is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>)
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Mod Harvest Organs Post Mortem - 4.1 [1.0] is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>)
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[HugsLib] version 7.1.0
+[HugsLib] early-initializing AllowTool
+[MadSkills]: settings initialized, multiplier is 0, not tiered, daily XP threshold is 4000, saturated XP multiplier is 0.2, Great Memory trait is altered.
+[MadSkills]: settings initialized, multiplier is 0, not tiered, daily XP threshold is 4000, saturated XP multiplier is 0.2, Great Memory trait is altered.
+[MadSkills]: settings initialized, multiplier is 0, not tiered, daily XP threshold is 4000, saturated XP multiplier is 0.2, Great Memory trait is altered.
+Fluffy Breakdowns :: Initialized
+PickUpAndHaul v0.1.1.0⅓ welcomes you to RimWorld with pointless logspam.
+DubsMintMenus v1.2.605
+RSA Core 0.1.1.0 loaded..
+RSA Main 2.4.1.0 loaded ...
+LWM Deep Storage: activated compatibility patch for VGP Vegetable Garden
+[MadSkills]: changed behavior of Great Memory trait.
+Config error in SoSShuttlecraft: no parts vulnerable to frostbite
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Translation data for language English has 2 errors. Generate translation report for more info.
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+RimFridge Harmony Patches:
+  Prefix:
+    ReachabilityUtility.CanReach - So pawns can get items in Wall-Fridges
+  Postfix:
+    GameComponentUtility.StartedNewGame - Apply power settings at start
+    GameComponentUtility.LoadedGame - Apply power settings on load
+    GenTemperature.TryGetTemperatureForCell - Overrides room temperature within the cells of the RimFridge
+    TradeShip.ColonyThingsWillingToBuy - Add items stored inside a wall-fridge to the trade list if in a room with an orbital beacon
+    FoodUtility.TryFindBestFoodSourceFor - Allow Prisoners to eat food from fridges
+    TradeShip.ColonyThingsWillingToBuy
+EnhancedOptions.Patcher.Patcher(): Starting Patching.
+EnhancedOptions.Patcher.Patcher(): Completed Patching.
+No Skill Loss mod loaded.
+[RimHUD v1.6.4] Initialized
+[CMColorCodedMoodBar] CMColorCodedMoodBar initialized
+MendingWeaponStoragePatch Harmony Patches:
+  Postfix:
+    WorkGiver_DoBill.TryFindBestBillIngredients - Priority Last
+WeaponStorage Harmony Patches:
+  Prefix:
+    Pawn_HealthTracker.MakeDowned - not blocking
+    Dialog_FormCaravan.PostOpen
+    CaravanExitMapUtility.ExitMapAndCreateCaravan(IEnumerable<Pawn>, Faction, int)
+    CaravanExitMapUtility.ExitMapAndCreateCaravan(IEnumerable<Pawn>, Faction, int, int)
+    MakeUndowned - Priority First
+    Pawn.Kill - Priority First
+    Pawn_EquipmentTracker.AddEquipment - Priority First
+    Pawn_EquipmentTracker.TryDropEquipment - Priority First
+    Pawn_EquipmentTracker.MakeRoomFor - Priority First
+    ScribeSaver.InitSaving
+    SettlementAbandonUtility.Abandon
+  Postfix:
+    Pawn_TraderTracker.ColonyThingsWillingToBuy
+    TradeShip.ColonyThingsWillingToBuy
+    Window.PreClose
+    ReservationManager.CanReserve
+    CaravanFormingUtility.StopFormingCaravan
+    Pawn_DraftController.Drafted { set; }
+    WealthWatcher.ForceRecount
+    MakeDowned - Priority First
+    Pawn_EquipmentTracker.TryDropEquipment - Priority First
+    Pawn.Kill - Priority First
+    Root.Start - Priority Last
+ChangeDresser Harmony Patches:
+  Prefix:
+    Dialog_FormCaravan.PostOpen
+    CaravanExitMapUtility.ExitMapAndCreateCaravan(IEnumerable<Pawn>, Faction, int)
+    CaravanExitMapUtility.ExitMapAndCreateCaravan(IEnumerable<Pawn>, Faction, int, int)
+    Pawn.Kill - Priority First
+    Pawn_ApparelTracker.Notify_ApparelAdded
+    ScribeSaver.InitSaving
+    SettlementAbandonUtility.Abandon
+    Caravan.AddPawn - Priority First (undrafts any drafted pawns)
+  Postfix:
+    Pawn.GetGizmos
+    Pawn_ApparelTracker.Notify_ApparelAdded
+    Pawn_DraftController.Drafted { set }
+    Pawn_DraftController.GetGizmos
+    JobGiver_OptimizeApparel.TryGiveJob
+    ReservationManager.CanReserve
+    OutfitDatabase.TryDelete
+    CaravanFormingUtility.StopFormingCaravan
+    WealthWatcher.ForceRecount
+    Pawn.Kill - Priority First
+    Pawn_ApparelTracker.Notify_ApparelRemoved
+MendingChangeDresserPatch Harmony Patches:
+  Postfix:
+    WorkGiver_DoBill.TryFindBestBillIngredients - Priority Last
+InfiniteStorage Harmony Patches:
+  Prefix:
+    Designator_Build.ProcessInput - will block if looking for things.
+    ScribeSaver.InitSaving
+    SettlementAbandonUtility.Abandon
+  Postfix:
+    Pawn_TraderTracker.DrawMedOperationsTab
+    Pawn_TraderTracker.ThingsInGroup
+    Pawn_TraderTracker.ColonyThingsWillingToBuy
+    TradeShip.ColonyThingsWillingToBuy
+    Window.PreClose
+    WorkGiver_DoBill.TryFindBestBillIngredients
+AdjustableTradeShips Harmony Patches:
+  Prefix:
+    Game.InitNewGame
+  Postfix:
+    Storyteller.Notify_DefChanged
+[RealRuins][System]: RealRuins started patching at 3/23/2020 12:26:21 AM
+[RealRuins][System]: RealRuins finished patching at 3/23/2020 12:26:21 AM (171.9387 msec)
+EnhancedDevelopment.Embrasures.Patcher(): Starting.
+EnhancedDevelopment.Embrasures.ApplyPatchIfRequired: Skipping Applying Patch: Embrasures
+EnhancedDevelopment.Embrasures.Patcher(): Complete.
+Type TextureChooser probably needs a StaticConstructorOnStartup attribute, because it has a field LeftArrow of type Texture2D. All assets must be loaded in the main thread.
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AllowTool] Applied compatibility patch for "Pick Up And Haul"
+LWM DeepStorage: Activating Compatibility Patch for RimWorld Search Agency
+LWM DeepStorage: Activating Compatibility Patch for RimWorld Search Agency
+[HugsLib] initializing StackXXL, HeatMap, com.github.alandariva.moreplanning, MURWallLight, LetsTradeSettings, PeteTimesSix.SimpleSidearms, BetterPawnControl, CombatTraining, RealRuins, Linkolas.Stabilize, ShipInteriorMod2, DefensivePositions, LWM_DeepStorage
+[StackXXL] Loaded
+[LetsTradeSettings] Let's Trade loaded successfully!
+Unloading 5 Unused Serialized files (Serialized files now loaded: 1)
+
+Unloading 52 unused Assets to reduce memory usage. Loaded Objects now: 13399.
+Total: 301.244200 ms (FindLiveObjects: 3.199300 ms CreateObjectMapping: 2.586400 ms MarkObjects: 295.226600 ms  DeleteObjects: 0.231300 ms)
+
+Loading game from file The Outworlders 32 with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - UnlimitedHugs.HugsLib
+  - Indeed.StackXXL
+  - EdB.PrepareCarefully
+  - mlph.OpenedDoorsDontBlockLight
+  - Dorely.BetaTraps
+  - PinoChemicali.SkilledStonecutting
+  - falconne.HeatMap
+  - Oblitus.AnimalsLogic
+  - com.github.alandariva.moreplanning
+  - tammybee.predatorhuntalert
+  - tikubonn.dontblockdoor
+  - FrozenSnowFox.FilthVanishesWithRainAndTime
+  - Uuugggg.ShareTheLoad
+  - sumghaiDubwise.Replimat
+  - avilmask.CommonSense
+  - rimfridge.kv.rw
+  - crlsniper.realisticrooms
+  - ratys.madskills
+  - Telkir.TMods.MoreFloors
+  - fluffy.stuffedfloors
+  - Jaxxa.ED.EnhancedOptions
+  - brrainz.cameraplus
+  - fluffy.areaunlocker
+  - fluffy.worktab
+  - brrainz.justignoremepassing
+  - brrainz.rangefinder
+  - fluffy.fluffybreakdowns
+  - Murmur.WallLight
+  - ratys.rtfuse
+  - avilmask.GrazingLands
+  - MRGames.NoSkillDecay
+  - UnlimitedHugs.AllowTool
+  - fluffy.followme
+  - Jaxe.RimHUD
+  - dismarzero.VGP.VGPVegetableGarden
+  - CrashM.ColorCodedMoodBar.11
+  - smashphil.dropspot
+  - earthyturtle.letstrade
+  - PeteTimesSix.SimpleSidearms
+  - Mehni.PickUpAndHaul
+  - hatti.cleaningarea
+  - fluffy.pharmacist
+  - notfood.MendAndRecycle
+  - Hanabishi.InwallCoolersAndVents
+  - VouLT.BetterPawnControl
+  - Mlie.HolyWasher
+  - weaponstorage.kv.rw
+  - changedresser.kv.rw
+  - infinitestorage.kv.rw
+  - Lat.VeeHair
+  - Vanya.Agent.LolidropHairshop
+  - CP.Chicken.Mitchell.Hairstyles
+  - LingLuo.LovelyHairStyle
+  - NackbladInc.Rimhair
+  - Orion.XevaRimhair
+  - rimsenal.hair
+  - Uuugggg.ReplaceStuff
+  - erdelf.MinifyEverything
+  - Haplo.Miscellaneous.BeesNHoney
+  - joethetech.disablesappers
+  - Haplo.Miscellaneous.Training
+  - Shotgunfrenzy.PriorityTreatment
+  - kriil.combat
+  - nephlite.orbitaltradecolumn
+  - syrchalis.setupcamp
+  - syrchalis.doormats
+  - adjustabletradeships.kv.rw
+  - Uuugggg.ThePriceIsRight
+  - LinaFromSweden.SimplyMoreFloors
+  - BigVeech.MetalsTrader
+  - sjaak31367.ZoologicalOrbitalTraders
+  - Supes.MapWideOrbitalTradeBeacon
+  - Dubwise.DubsMintMenus
+  - erdelf.ShowModDesignators
+  - phomor.DoorsCloseFastAgain
+  - Wemd.FastMoisturePumps
+  - fed1sPlay.PawnTargetFix
+  - AgentBlac.ChemfuelFromHay
+  - ods.hair.mens
+  - ods.hair.womens
+  - Woolstrand.RealRuins
+  - SquirtingElephant.NoHealingEmotes
+  - SquirtingElephant.NoZZZ
+  - Francini.CL11
+  - fluffy.blueprints
+  - JM.betterTraders
+  - Mlie.AnimalHarvestingSpot
+  - Storage.Search.RSA
+  - Owlchemist.UndergroundPowerConduits
+  - Ogliss.Ykara.HarvestEverything
+  - Linkolas.Stabilize
+  - fluffy.colonymanager
+  - kentington.saveourship2
+  - Jaxxa.ED.Embrasures
+  - UnlimitedHugs.DefensivePositions
+  - LWM.DeepStorage
+  - JangoDsoul.SimplyStorage
+Orbitabl Trader On/Off Cycle applied.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 20640.
+Total: 819.238100 ms (FindLiveObjects: 4.559300 ms CreateObjectMapping: 4.232800 ms MarkObjects: 810.045300 ms  DeleteObjects: 0.399500 ms)
+
+Exception ticking Bullet_AssaultRifle873899: System.NullReferenceException: Object reference not set to an instance of an object
+  at WeaponStorage.Patch_Pawn_Kill.Postfix (Verse.Pawn __instance) [0x00008] in <856cc2a1439f4fbeb34d1eb545078dee>:0 
+  at (wrapper dynamic-method) Verse.Pawn.DMD<DMD<Kill_Patch4>?-1669393920::Kill_Patch4>(Verse.Pawn,System.Nullable`1<Verse.DamageInfo>,Verse.Hediff)
+  at Verse.Pawn_HealthTracker.CheckForStateChange (System.Nullable`1[T] dinfo, Verse.Hediff hediff) [0x00020] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.Pawn_HealthTracker.AddHediff (Verse.Hediff hediff, Verse.BodyPartRecord part, System.Nullable`1[T] dinfo, Verse.DamageWorker+DamageResult result) [0x00019] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.HediffSet.AddDirect (Verse.Hediff hediff, System.Nullable`1[T] dinfo, Verse.DamageWorker+DamageResult damageResult) [0x001a5] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.Pawn_HealthTracker.AddHediff (Verse.Hediff hediff, Verse.BodyPartRecord part, System.Nullable`1[T] dinfo, Verse.DamageWorker+DamageResult result) [0x0000a] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.DamageWorker_AddInjury.FinalizeAndAddInjury (Verse.Pawn pawn, Verse.Hediff_Injury injury, Verse.DamageInfo dinfo, Verse.DamageWorker+DamageResult result) [0x0001e] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.DamageWorker_AddInjury.FinalizeAndAddInjury (Verse.Pawn pawn, System.Single totalDamage, Verse.DamageInfo dinfo, Verse.DamageWorker+DamageResult result) [0x000e1] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.DamageWorker_AddInjury.ApplySpecialEffectsToPart (Verse.Pawn pawn, System.Single totalDamage, Verse.DamageInfo dinfo, Verse.DamageWorker+DamageResult result) [0x0000b] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.DamageWorker_AddInjury.ApplyDamageToPart (Verse.DamageInfo dinfo, Verse.Pawn pawn, Verse.DamageWorker+DamageResult result) [0x0011b] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.DamageWorker_AddInjury.ApplyToPawn (Verse.DamageInfo dinfo, Verse.Pawn pawn) [0x00091] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.DamageWorker_AddInjury.Apply (Verse.DamageInfo dinfo, Verse.Thing thing) [0x00013] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.Thing.TakeDamage (Verse.DamageInfo dinfo) [0x000cb] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at RimWorld.Bullet.Impact (Verse.Thing hitThing) [0x0009a] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.Projectile.ImpactSomething () [0x0014f] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.Projectile.Tick () [0x000ed] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.TickList.Tick () [0x0015c] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception ticking TrapDeadfall400251 (at (74, 0, 76)): System.NullReferenceException: Object reference not set to an instance of an object
+  at WeaponStorage.Patch_Pawn_Kill.Postfix (Verse.Pawn __instance) [0x00008] in <856cc2a1439f4fbeb34d1eb545078dee>:0 
+  at (wrapper dynamic-method) Verse.Pawn.DMD<DMD<Kill_Patch4>?-1669393920::Kill_Patch4>(Verse.Pawn,System.Nullable`1<Verse.DamageInfo>,Verse.Hediff)
+  at Verse.Pawn_HealthTracker.CheckForStateChange (System.Nullable`1[T] dinfo, Verse.Hediff hediff) [0x00020] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.Pawn_HealthTracker.AddHediff (Verse.Hediff hediff, Verse.BodyPartRecord part, System.Nullable`1[T] dinfo, Verse.DamageWorker+DamageResult result) [0x00019] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.DamageWorker_AddInjury.FinalizeAndAddInjury (Verse.Pawn pawn, Verse.Hediff_Injury injury, Verse.DamageInfo dinfo, Verse.DamageWorker+DamageResult result) [0x0001e] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.DamageWorker_AddInjury.FinalizeAndAddInjury (Verse.Pawn pawn, System.Single totalDamage, Verse.DamageInfo dinfo, Verse.DamageWorker+DamageResult result) [0x000e1] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.DamageWorker_Stab.ApplySpecialEffectsToPart (Verse.Pawn pawn, System.Single totalDamage, Verse.DamageInfo dinfo, Verse.DamageWorker+DamageResult result) [0x00075] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.DamageWorker_AddInjury.ApplyDamageToPart (Verse.DamageInfo dinfo, Verse.Pawn pawn, Verse.DamageWorker+DamageResult result) [0x0011b] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.DamageWorker_AddInjury.ApplyToPawn (Verse.DamageInfo dinfo, Verse.Pawn pawn) [0x00091] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.DamageWorker_AddInjury.Apply (Verse.DamageInfo dinfo, Verse.Thing thing) [0x00013] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.Thing.TakeDamage (Verse.DamageInfo dinfo) [0x000cb] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at BetaTraps.Building_TrapRearmable.DamagePawn (Verse.Pawn p) [0x0005c] in <5811e6170b9e46d9a18c1a0709c845f0>:0 
+  at BetaTraps.Building_TrapRearmable.SpringSub (Verse.Pawn p) [0x0002b] in <5811e6170b9e46d9a18c1a0709c845f0>:0 
+  at BetaTraps.Building_Trap.Spring (Verse.Pawn p) [0x00026] in <5811e6170b9e46d9a18c1a0709c845f0>:0 
+  at BetaTraps.Building_Trap.CheckSpring (Verse.Pawn p) [0x00011] in <5811e6170b9e46d9a18c1a0709c845f0>:0 
+  at BetaTraps.Building_Trap.Tick () [0x0006b] in <5811e6170b9e46d9a18c1a0709c845f0>:0 
+  at Verse.TickList.Tick () [0x0015c] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception ticking TrapDeadfall850143 (at (114, 0, 76)): System.NullReferenceException: Object reference not set to an instance of an object
+  at WeaponStorage.Patch_Pawn_Kill.Postfix (Verse.Pawn __instance) [0x00008] in <856cc2a1439f4fbeb34d1eb545078dee>:0 
+  at (wrapper dynamic-method) Verse.Pawn.DMD<DMD<Kill_Patch4>?-1669393920::Kill_Patch4>(Verse.Pawn,System.Nullable`1<Verse.DamageInfo>,Verse.Hediff)
+  at Verse.Pawn_HealthTracker.CheckForStateChange (System.Nullable`1[T] dinfo, Verse.Hediff hediff) [0x00127] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.Pawn_HealthTracker.AddHediff (Verse.Hediff hediff, Verse.BodyPartRecord part, System.Nullable`1[T] dinfo, Verse.DamageWorker+DamageResult result) [0x00019] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.DamageWorker_AddInjury.FinalizeAndAddInjury (Verse.Pawn pawn, Verse.Hediff_Injury injury, Verse.DamageInfo dinfo, Verse.DamageWorker+DamageResult result) [0x0001e] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.DamageWorker_AddInjury.FinalizeAndAddInjury (Verse.Pawn pawn, System.Single totalDamage, Verse.DamageInfo dinfo, Verse.DamageWorker+DamageResult result) [0x000e1] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.DamageWorker_Stab.ApplySpecialEffectsToPart (Verse.Pawn pawn, System.Single totalDamage, Verse.DamageInfo dinfo, Verse.DamageWorker+DamageResult result) [0x00075] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.DamageWorker_AddInjury.ApplyDamageToPart (Verse.DamageInfo dinfo, Verse.Pawn pawn, Verse.DamageWorker+DamageResult result) [0x0011b] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.DamageWorker_AddInjury.ApplyToPawn (Verse.DamageInfo dinfo, Verse.Pawn pawn) [0x00091] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.DamageWorker_AddInjury.Apply (Verse.DamageInfo dinfo, Verse.Thing thing) [0x00013] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.Thing.TakeDamage (Verse.DamageInfo dinfo) [0x000cb] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at BetaTraps.Building_TrapRearmable.DamagePawn (Verse.Pawn p) [0x0005c] in <5811e6170b9e46d9a18c1a0709c845f0>:0 
+  at BetaTraps.Building_TrapRearmable.SpringSub (Verse.Pawn p) [0x0002b] in <5811e6170b9e46d9a18c1a0709c845f0>:0 
+  at BetaTraps.Building_Trap.Spring (Verse.Pawn p) [0x00026] in <5811e6170b9e46d9a18c1a0709c845f0>:0 
+  at BetaTraps.Building_Trap.CheckSpring (Verse.Pawn p) [0x00011] in <5811e6170b9e46d9a18c1a0709c845f0>:0 
+  at BetaTraps.Building_Trap.Tick () [0x0006b] in <5811e6170b9e46d9a18c1a0709c845f0>:0 
+  at Verse.TickList.Tick () [0x0015c] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception ticking Bullet_AssaultRifle874147: System.NullReferenceException: Object reference not set to an instance of an object
+  at WeaponStorage.Patch_Pawn_Kill.Postfix (Verse.Pawn __instance) [0x00008] in <856cc2a1439f4fbeb34d1eb545078dee>:0 
+  at (wrapper dynamic-method) Verse.Pawn.DMD<DMD<Kill_Patch4>?-1669393920::Kill_Patch4>(Verse.Pawn,System.Nullable`1<Verse.DamageInfo>,Verse.Hediff)
+  at Verse.Pawn_HealthTracker.CheckForStateChange (System.Nullable`1[T] dinfo, Verse.Hediff hediff) [0x00127] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.Pawn_HealthTracker.AddHediff (Verse.Hediff hediff, Verse.BodyPartRecord part, System.Nullable`1[T] dinfo, Verse.DamageWorker+DamageResult result) [0x00019] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.DamageWorker_AddInjury.FinalizeAndAddInjury (Verse.Pawn pawn, Verse.Hediff_Injury injury, Verse.DamageInfo dinfo, Verse.DamageWorker+DamageResult result) [0x0001e] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.DamageWorker_AddInjury.FinalizeAndAddInjury (Verse.Pawn pawn, System.Single totalDamage, Verse.DamageInfo dinfo, Verse.DamageWorker+DamageResult result) [0x000e1] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.DamageWorker_AddInjury.ApplySpecialEffectsToPart (Verse.Pawn pawn, System.Single totalDamage, Verse.DamageInfo dinfo, Verse.DamageWorker+DamageResult result) [0x0000b] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.DamageWorker_AddInjury.ApplyDamageToPart (Verse.DamageInfo dinfo, Verse.Pawn pawn, Verse.DamageWorker+DamageResult result) [0x0011b] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.DamageWorker_AddInjury.ApplyToPawn (Verse.DamageInfo dinfo, Verse.Pawn pawn) [0x00091] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.DamageWorker_AddInjury.Apply (Verse.DamageInfo dinfo, Verse.Thing thing) [0x00013] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.Thing.TakeDamage (Verse.DamageInfo dinfo) [0x000cb] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at RimWorld.Bullet.Impact (Verse.Thing hitThing) [0x0009a] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.Projectile.ImpactSomething () [0x0014f] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.Projectile.Tick () [0x000ed] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.TickList.Tick () [0x0015c] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+JobDriver threw exception in initAction for pawn Lazarus driver=JobDriver_Hunt (toilIndex=11) driver.job=(Hunt (Job_2988615) A=Thing_Bison831002)
+System.NullReferenceException: Object reference not set to an instance of an object
+  at WeaponStorage.Patch_Pawn_Kill.Postfix (Verse.Pawn __instance) [0x00008] in <856cc2a1439f4fbeb34d1eb545078dee>:0 
+  at (wrapper dynamic-method) Verse.Pawn.DMD<DMD<Kill_Patch4>?-1669393920::Kill_Patch4>(Verse.Pawn,System.Nullable`1<Verse.DamageInfo>,Verse.Hediff)
+  at RimWorld.ExecutionUtility.DoExecutionByCut (Verse.Pawn executioner, Verse.Pawn victim) [0x00099] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at RimWorld.JobDriver_Hunt.<MakeNewToils>b__12_5 () [0x0001a] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+  at Verse.AI.JobDriver.TryActuallyStartNextToil () [0x001df] in <65f126dfb1e4464fa378d4b237f11a99>:0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
